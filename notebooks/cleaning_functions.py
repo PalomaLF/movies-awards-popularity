@@ -25,4 +25,16 @@ def value_replace_dictio_regex(original_values_iterable, pattern_dictio, else_va
                 value_replace_clean[w] = else_value
     return value_replace_clean
 
+def drop_rows_by_value(df,df_column,value_list):
+    for l in value_list:
+        df= df.drop(df[df_column == l].index)
+    return df
 
+
+def values_iterable_regex(df_column,pattern):
+    regex_values = []
+    for x in df_column:
+        if re.search(pattern,x,flags=re.IGNORECASE):
+            regex_values.append(x)
+    regex_values = set(regex_values)
+    return regex_values
