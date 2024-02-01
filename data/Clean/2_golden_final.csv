@@ -4,10 +4,10 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1967,1968,Best motion picture - drama,Far From The Madding Crowd,Far From The Madding Crowd,False
 1967,1968,Best motion picture - drama,Guess Who's Coming To Dinner,Guess Who's Coming To Dinner,False
 1967,1968,Best motion picture - drama,In Cold Blood,In Cold Blood,False
-1967,1968,Best motion picture - musical or comedy,"The Graduate, The",The Graduate,True
+1967,1968,Best motion picture - musical or comedy,The Graduate,The Graduate,True
 1967,1968,Best motion picture - musical or comedy,Camelot,Camelot,False
 1967,1968,Best motion picture - musical or comedy,Doctor Dolittle,Doctor Dolittle,False
-1967,1968,Best motion picture - musical or comedy,"The Taming of the Shrew, The",The Taming of the Shrew,False
+1967,1968,Best motion picture - musical or comedy,The Taming of the Shrew,The Taming of the Shrew,False
 1967,1968,Best motion picture - musical or comedy,Thoroughly Modern Millie,Thoroughly Modern Millie,False
 1967,1968,Best actress - drama,Edith Evans,The Whisperers,True
 1967,1968,Best actress - drama,Faye Dunaway,Bonnie and Clyde,False
@@ -74,13 +74,13 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1967,1968,Best motion picture - foreign language,"United Kingdom, Bryan Forbes",The Whisperers,False
 1968,1969,Best motion picture - drama,The Lion in Winter,The Lion in Winter,True
 1968,1969,Best motion picture - drama,Charly,Charly,False
-1968,1969,Best motion picture - drama,"The Fixer, The",The Fixer,False
-1968,1969,Best motion picture - drama,"The Heart Is a Lonely Hunter, The",The Heart Is a Lonely Hunter,False
-1968,1969,Best motion picture - drama,"The Shoes of the Fisherman, The",The Shoes of the Fisherman,False
+1968,1969,Best motion picture - drama,The Fixer,The Fixer,False
+1968,1969,Best motion picture - drama,The Heart Is a Lonely Hunter,The Heart Is a Lonely Hunter,False
+1968,1969,Best motion picture - drama,The Shoes of the Fisherman,The Shoes of the Fisherman,False
 1968,1969,Best motion picture - musical or comedy,Oliver!,Oliver!,True
 1968,1969,Best motion picture - musical or comedy,Funny Girl,Funny Girl,False
 1968,1969,Best motion picture - musical or comedy,Finian's Rainbow,Finian's Rainbow,False
-1968,1969,Best motion picture - musical or comedy,"The Odd Couple, The (1968)",The Odd Couple (1968),False
+1968,1969,Best motion picture - musical or comedy,"Odd Couple, The (1968)","Odd Couple, The (1968)",False
 1968,1969,Best motion picture - musical or comedy,"Yours, Mine and Ours","Yours, Mine and Ours",False
 1968,1969,Best actress - drama,Joanne Woodward,"Rachel, Rachel",True
 1968,1969,Best actress - drama,Beryl Reid,The Killing of Sister George,False
@@ -94,9 +94,9 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1968,1969,Best actor - drama,Cliff Robertson,Charly,False
 1968,1969,Best actor - musical or comedy,Ron Moody,Oliver!,True
 1968,1969,Best actor - musical or comedy,Fred Astaire,Finian's Rainbow,False
-1968,1969,Best actor - musical or comedy,Jack Lemmon,The Odd Couple (1968),False
-1968,1969,Best actor - musical or comedy,Walter Matthau,The Odd Couple (1968),False
-1968,1969,Best actor - musical or comedy,Zero Mostel,The Producers (1967),False
+1968,1969,Best actor - musical or comedy,Jack Lemmon,"Odd Couple, The (1968)",False
+1968,1969,Best actor - musical or comedy,Walter Matthau,"Odd Couple, The (1968)",False
+1968,1969,Best actor - musical or comedy,Zero Mostel,"Producers, The (1967)",False
 1968,1969,Best supporting actress - motion picture,Ruth Gordon,Rosemary's Baby,True
 1968,1969,Best supporting actress - motion picture,Barbara Hancock,Finian's Rainbow,False
 1968,1969,Best supporting actress - motion picture,Abbey Lincoln,For Love of Ivy,False
@@ -115,7 +115,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1968,1969,Best screenplay - motion picture,Stirling Silliphant,Charly,True
 1968,1969,Best screenplay - motion picture,Dalton Trumbo,The Fixer,False
 1968,1969,Best screenplay - motion picture,James Goldman,The Lion in Winter,False
-1968,1969,Best screenplay - motion picture,Mel Brooks,The Producers (1967),False
+1968,1969,Best screenplay - motion picture,Mel Brooks,"Producers, The (1967)",False
 1968,1969,Best screenplay - motion picture,Roman Polanski,Rosemary's Baby,False
 1968,1969,Best original score - motion picture,Alex North,The Shoes of the Fisherman,True
 1968,1969,Best original score - motion picture,"Richard M. Sherman, Robert B. Sherman",Chitty Chitty Bang Bang,False
@@ -147,9 +147,9 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1969,1970,Best motion picture - drama,Anne of the Thousand Days,Anne of the Thousand Days,True
 1969,1970,Best motion picture - drama,Butch Cassidy and The Sundance Kid,Butch Cassidy and The Sundance Kid,False
 1969,1970,Best motion picture - drama,Midnight Cowboy,Midnight Cowboy,False
-1969,1970,Best motion picture - drama,"The Prime of Miss Jean Brodie, The",The Prime of Miss Jean Brodie,False
+1969,1970,Best motion picture - drama,The Prime of Miss Jean Brodie,The Prime of Miss Jean Brodie,False
 1969,1970,Best motion picture - drama,"They Shoot Horses, Don't They?","They Shoot Horses, Don't They?",False
-1969,1970,Best motion picture - musical or comedy,"The Secret of Santa Vittoria, The",The Secret of Santa Vittoria,True
+1969,1970,Best motion picture - musical or comedy,The Secret of Santa Vittoria,The Secret of Santa Vittoria,True
 1969,1970,Best motion picture - musical or comedy,Cactus Flower,Cactus Flower,False
 1969,1970,Best motion picture - musical or comedy,"Goodbye, Columbus","Goodbye, Columbus",False
 1969,1970,Best motion picture - musical or comedy,"Hello, Dolly!","Hello, Dolly!",False
@@ -289,15 +289,15 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1970,1971,Best motion picture - foreign language,"United Kingdom, Richard Harris, Uri Zohar",Bloomfield,False
 1970,1971,Best motion picture - foreign language,"United Kingdom, Christopher Miles",The Virgin and the Gypsy,False
 1970,1971,Best motion picture - foreign language,"Japan, Keith Larsen, Koji Senno, Nobuaki Shirai",The Walking Major,False
-1971,1972,Best motion picture - drama,"The French Connection, The",The French Connection,True
-1971,1972,Best motion picture - drama,"Clockwork Orange, A","Clockwork Orange, A",False
-1971,1972,Best motion picture - drama,"The Last Picture Show, The",The Last Picture Show,False
+1971,1972,Best motion picture - drama,The French Connection,The French Connection,True
+1971,1972,Best motion picture - drama,A Clockwork Orange,A Clockwork Orange,False
+1971,1972,Best motion picture - drama,The Last Picture Show,The Last Picture Show,False
 1971,1972,Best motion picture - drama,"Mary, Queen of Scots","Mary, Queen of Scots",False
 1971,1972,Best motion picture - drama,Summer of '42,Summer of '42,False
 1971,1972,Best motion picture - musical or comedy,Fiddler on the Roof,Fiddler on the Roof,True
-1971,1972,Best motion picture - musical or comedy,"The Boy Friend, The",The Boy Friend,False
+1971,1972,Best motion picture - musical or comedy,The Boy Friend,The Boy Friend,False
 1971,1972,Best motion picture - musical or comedy,Kotch,Kotch,False
-1971,1972,Best motion picture - musical or comedy,"New Leaf, A","New Leaf, A",False
+1971,1972,Best motion picture - musical or comedy,A New Leaf,A New Leaf,False
 1971,1972,Best motion picture - musical or comedy,Plaza Suite,Plaza Suite,False
 1971,1972,Best actress - drama,Jane Fonda,Klute,True
 1971,1972,Best actress - drama,Dyan Cannon,Such Good Friends,False
@@ -307,7 +307,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1971,1972,Best actor - drama,Gene Hackman,The French Connection,True
 1971,1972,Best actor - drama,George C. Scott,The Hospital,False
 1971,1972,Best actor - drama,Peter Finch,Sunday Bloody Sunday,False
-1971,1972,Best actor - drama,Malcolm McDowell,"Clockwork Orange, A",False
+1971,1972,Best actor - drama,Malcolm McDowell,A Clockwork Orange,False
 1971,1972,Best actor - drama,Jack Nicholson,Carnal Knowledge,False
 1971,1972,Best actor - musical or comedy, Topol,Fiddler on the Roof,True
 1971,1972,Best actor - musical or comedy,Bud Cort,Harold and Maude,False
@@ -327,7 +327,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1971,1972,Best director - motion picture,William Friedkin,The French Connection,True
 1971,1972,Best director - motion picture,Peter Bogdanovich,The Last Picture Show,False
 1971,1972,Best director - motion picture,Norman Jewison,Fiddler on the Roof,False
-1971,1972,Best director - motion picture,Stanley Kubrick,"Clockwork Orange, A",False
+1971,1972,Best director - motion picture,Stanley Kubrick,A Clockwork Orange,False
 1971,1972,Best director - motion picture,Robert Mulligan,Summer of '42,False
 1971,1972,Best screenplay - motion picture,Paddy Chayefsky,The Hospital,True
 1971,1972,Best screenplay - motion picture,John Hale,"Mary, Queen of Scots",False
@@ -348,7 +348,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1971,1972,Best actress - musical or comedy,Sandy Duncan,Star Spangled Girl,False
 1971,1972,Best actress - musical or comedy,Ruth Gordon,Harold and Maude,False
 1971,1972,Best actress - musical or comedy,Angela Lansbury,Bedknobs and Broomsticks,False
-1971,1972,Best actress - musical or comedy,Elaine May,"New Leaf, A",False
+1971,1972,Best actress - musical or comedy,Elaine May,A New Leaf,False
 1971,1972,Best motion picture - foreign language,"Israel, Ephraim Kishon",The Policeman,True
 1971,1972,Best motion picture - foreign language,"France, Éric Rohmer",Claire's Knee,False
 1971,1972,Best motion picture - foreign language,"Italy, Bernardo Bertolucci",The Conformist,False
@@ -360,10 +360,10 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1971,1972,Best motion picture - foreign language,"United Kingdom, Joseph Losey",The Go-Between,False
 1971,1972,Best motion picture - foreign language,"United Kingdom, Bryan Forbes",Long Ago Tomorrow,False
 1971,1972,Best motion picture - foreign language,"Italy, Mikhail Kalatozov",The Red Tent,False
-1972,1973,Best motion picture - drama,"The Godfather, The",The Godfather,True
+1972,1973,Best motion picture - drama,The Godfather,The Godfather,True
 1972,1973,Best motion picture - drama,Deliverance,Deliverance,False
 1972,1973,Best motion picture - drama,Frenzy,Frenzy,False
-1972,1973,Best motion picture - drama,"The Poseidon Adventure, The",The Poseidon Adventure,False
+1972,1973,Best motion picture - drama,The Poseidon Adventure,The Poseidon Adventure,False
 1972,1973,Best motion picture - drama,Sleuth,Sleuth,False
 1972,1973,Best motion picture - musical or comedy,Cabaret,Cabaret,True
 1972,1973,Best motion picture - musical or comedy,Avanti!,Avanti!,False
@@ -441,8 +441,8 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1972,1973,Documentary,Marjoe,Marjoe,False
 1972,1973,Documentary,Russia,Russia,False
 1972,1973,Documentary,Sapporo Winter Olympics,Sapporo Winter Olympics,False
-1973,1974,Best motion picture - drama,"The Exorcist, The",The Exorcist,True
-1973,1974,Best motion picture - drama,"The Day of the Jackal, The",The Day of the Jackal,False
+1973,1974,Best motion picture - drama,The Exorcist,The Exorcist,True
+1973,1974,Best motion picture - drama,The Day of the Jackal,The Day of the Jackal,False
 1973,1974,Best motion picture - drama,Last Tango in Paris,Last Tango in Paris,False
 1973,1974,Best motion picture - drama,Save the Tiger,Save the Tiger,False
 1973,1974,Best motion picture - drama,Serpico,Serpico,False
@@ -451,7 +451,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1973,1974,Best motion picture - musical or comedy,Jesus Christ Superstar,Jesus Christ Superstar,False
 1973,1974,Best motion picture - musical or comedy,Paper Moon,Paper Moon,False
 1973,1974,Best motion picture - musical or comedy,Tom Sawyer,Tom Sawyer,False
-1973,1974,Best motion picture - musical or comedy,"Touch of Class, A","Touch of Class, A",False
+1973,1974,Best motion picture - musical or comedy,A Touch of Class,A Touch of Class,False
 1973,1974,Best actress - drama,Marsha Mason,Cinderella Liberty,True
 1973,1974,Best actress - drama,Ellen Burstyn,The Exorcist,False
 1973,1974,Best actress - drama,Barbra Streisand,The Way We Were,False
@@ -462,12 +462,12 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1973,1974,Best actor - drama,Jack Lemmon,Save the Tiger,False
 1973,1974,Best actor - drama,Steve McQueen,Papillon,False
 1973,1974,Best actor - drama,Jack Nicholson,The Last Detail,False
-1973,1974,Best actress - musical or comedy,Glenda Jackson,"Touch of Class, A",True
+1973,1974,Best actress - musical or comedy,Glenda Jackson,A Touch of Class,True
 1973,1974,Best actress - musical or comedy,Yvonne Elliman,Jesus Christ Superstar,False
 1973,1974,Best actress - musical or comedy,Cloris Leachman,Charley and The Angel,False
 1973,1974,Best actress - musical or comedy,Tatum O'Neal,Paper Moon,False
 1973,1974,Best actress - musical or comedy,Liv Ullmann,40 Carats,False
-1973,1974,Best actor - musical or comedy,George Segal,"Touch of Class, A",True
+1973,1974,Best actor - musical or comedy,George Segal,A Touch of Class,True
 1973,1974,Best actor - musical or comedy,Richard Dreyfuss,American Graffiti,False
 1973,1974,Best actor - musical or comedy,Ted Neeley,Jesus Christ Superstar,False
 1973,1974,Best actor - musical or comedy,Ryan O'Neal,Paper Moon,False
@@ -475,7 +475,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1973,1974,Best supporting actress - motion picture,Linda Blair,The Exorcist,True
 1973,1974,Best supporting actress - motion picture,Valentina Cortese,Day for Night,False
 1973,1974,Best supporting actress - motion picture,Madeline Kahn,Paper Moon,False
-1973,1974,Best supporting actress - motion picture,Kate Reid,"Delicate Balance, A",False
+1973,1974,Best supporting actress - motion picture,Kate Reid,A Delicate Balance,False
 1973,1974,Best supporting actress - motion picture,Sylvia Sidney,"Summer Wishes, Winter Dreams",False
 1973,1974,Best supporting actor - motion picture,John Houseman,The Paper Chase,True
 1973,1974,Best supporting actor - motion picture,Jack Gilford,Save the Tiger,False
@@ -491,7 +491,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1973,1974,Best screenplay - motion picture,Darryl Ponicsan,Cinderella Liberty,False
 1973,1974,Best screenplay - motion picture,Kenneth Ross,The Day of the Jackal,False
 1973,1974,Best screenplay - motion picture,David S. Ward,The Sting,False
-1973,1974,Best screenplay - motion picture,Melvin Frank,"Touch of Class, A",False
+1973,1974,Best screenplay - motion picture,Melvin Frank,A Touch of Class,False
 1973,1974,Best motion picture - foreign language,"Pedestrian, The","West Germany, Maximilian Schell",True
 1973,1974,Best motion picture - foreign language,"Alfredo, Alfredo","Italy, Pietro Germi",False
 1973,1974,Best motion picture - foreign language,Day for Night,"France, François Truffaut",False
@@ -508,23 +508,23 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1973,1974,Best original song - motion picture,"Lonely Looking Sky, Neil Diamond",Jonathan Livingston Seagull,False
 1973,1974,Best original song - motion picture,"Rosa Rosa, Dov Seltzer, Haim Hefer",Kazablan,False
 1973,1974,Best original song - motion picture,"Send a Little Love My Way, Henry Mancini, Hal David",Oklahoma Crude,False
-1973,1974,Best original song - motion picture,"All That Love Went To Waste, George Barrie, Sammy Cahn","Touch of Class, A",False
+1973,1974,Best original song - motion picture,"All That Love Went To Waste, George Barrie, Sammy Cahn",A Touch of Class,False
 1973,1974,Documentary,Visions of Eight,Visions of Eight,True
 1973,1974,Documentary,Love,Love,False
-1973,1974,Documentary,"The Movies That Made Us, The",The Movies That Made Us,False
-1973,1974,Documentary,"The Second Gun, The",The Second Gun,False
+1973,1974,Documentary,The Movies That Made Us,The Movies That Made Us,False
+1973,1974,Documentary,The Second Gun,The Second Gun,False
 1973,1974,Documentary,Wattstax,Wattstax,False
 1974,1975,Best motion picture - drama,Chinatown,Chinatown,True
-1974,1975,Best motion picture - drama,"The Conversation, The",The Conversation,False
+1974,1975,Best motion picture - drama,The Conversation,The Conversation,False
 1974,1975,Best motion picture - drama,Earthquake,Earthquake,False
-1974,1975,Best motion picture - drama,"The Godfather Part II, The",The Godfather Part II,False
-1974,1975,Best motion picture - drama,"Woman Under The Influence, A","Woman Under The Influence, A",False
+1974,1975,Best motion picture - drama,The Godfather Part II,The Godfather Part II,False
+1974,1975,Best motion picture - drama,A Woman Under The Influence,A Woman Under The Influence,False
 1974,1975,Best motion picture - musical or comedy,The Longest Yard,The Longest Yard,True
 1974,1975,Best motion picture - musical or comedy,Harry & Tonto,Harry & Tonto,False
-1974,1975,Best motion picture - musical or comedy,"The Little Prince, The",The Little Prince,False
-1974,1975,Best motion picture - musical or comedy,"The Three Musketeers, The",The Three Musketeers,False
-1974,1975,Best motion picture - musical or comedy,"The Front Page, The",The Front Page,False
-1974,1975,Best actress - drama,Gena Rowlands,"Woman Under The Influence, A",True
+1974,1975,Best motion picture - musical or comedy,The Little Prince,The Little Prince,False
+1974,1975,Best motion picture - musical or comedy,The Three Musketeers,The Three Musketeers,False
+1974,1975,Best motion picture - musical or comedy,The Front Page,The Front Page,False
+1974,1975,Best actress - drama,Gena Rowlands,A Woman Under The Influence,True
 1974,1975,Best actress - drama,Faye Dunaway,Chinatown,False
 1974,1975,Best actress - drama,Valerie Perrine,Lenny,False
 1974,1975,Best actress - drama,Liv Ullmann,Scenes From a Marriage,False
@@ -555,7 +555,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1974,1975,Best supporting actor - motion picture,John Huston,Chinatown,False
 1974,1975,Best supporting actor - motion picture,Sam Waterston,The Great Gatsby,False
 1974,1975,Best director - motion picture,Roman Polanski,Chinatown,True
-1974,1975,Best director - motion picture,John Cassavetes,"Woman Under The Influence, A",False
+1974,1975,Best director - motion picture,John Cassavetes,A Woman Under The Influence,False
 1974,1975,Best director - motion picture,Francis Ford Coppola,The Conversation,False
 1974,1975,Best director - motion picture,Francis Ford Coppola,The Godfather Part II,False
 1974,1975,Best director - motion picture,Bob Fosse,Lenny,False
@@ -563,7 +563,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1974,1975,Best screenplay - motion picture,Francis Ford Coppola,The Conversation,False
 1974,1975,Best screenplay - motion picture,Francis Ford Coppola,The Godfather Part II,False
 1974,1975,Best screenplay - motion picture,Stirling Silliphant,The Towering Inferno,False
-1974,1975,Best screenplay - motion picture,John Cassavetes,"Woman Under The Influence, A",False
+1974,1975,Best screenplay - motion picture,John Cassavetes,A Woman Under The Influence,False
 1974,1975,Best motion picture - foreign language,Scenes From a Marriage,"Sweden, Ingmar Bergman",True
 1974,1975,Best motion picture - foreign language,Amarcord,"Italy, Federico Fellini",False
 1974,1975,Best motion picture - foreign language,"Apprenticeship of Duddy Kravitz, The","Canada, Ted Kotcheff",False
@@ -581,7 +581,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1974,1975,Best original song - motion picture,"On and On, Curtis Mayfield",Claudine,False
 1974,1975,Documentary,Animals Are Beautiful People,Animals Are Beautiful People,True
 1974,1975,Documentary,"Birds Do It, Bees Do It","Birds Do It, Bees Do It",False
-1974,1975,Documentary,"The Challenge, The",The Challenge,False
+1974,1975,Documentary,The Challenge,The Challenge,False
 1974,1975,Documentary,Hearts and Minds,Hearts and Minds,False
 1974,1975,Documentary,I am a Dancer,I am a Dancer,False
 1974,1975,Documentary,Janis,Janis,False
@@ -590,9 +590,9 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1975,1976,Best motion picture - drama,Dog Day Afternoon,Dog Day Afternoon,False
 1975,1976,Best motion picture - drama,Jaws,Jaws,False
 1975,1976,Best motion picture - drama,Nashville,Nashville,False
-1975,1976,Best motion picture - musical or comedy,"The Sunshine Boys, The",The Sunshine Boys,True
+1975,1976,Best motion picture - musical or comedy,The Sunshine Boys,The Sunshine Boys,True
 1975,1976,Best motion picture - musical or comedy,Funny Lady,Funny Lady,False
-1975,1976,Best motion picture - musical or comedy,"The Return of the Pink Panther, The",The Return of the Pink Panther,False
+1975,1976,Best motion picture - musical or comedy,The Return of the Pink Panther,The Return of the Pink Panther,False
 1975,1976,Best motion picture - musical or comedy,Shampoo,Shampoo,False
 1975,1976,Best motion picture - musical or comedy,Tommy,Tommy,False
 1975,1976,Best actress - drama,Louise Fletcher,One Flew Over The Cuckoo's Nest,True
@@ -652,19 +652,19 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1975,1976,Best original song - motion picture,"How Lucky Can You Get?, John Kander, Fred Ebb",Funny Lady,False
 1975,1976,Documentary,Youthquake,Youthquake,True
 1975,1976,Documentary,"Brother, Can You Spare a Dime?","Brother, Can You Spare a Dime?",False
-1975,1976,Documentary,"The Gentleman Tramp, The",The Gentleman Tramp,False
+1975,1976,Documentary,The Gentleman Tramp,The Gentleman Tramp,False
 1975,1976,Documentary,Mustang: The House That Joe Built,Mustang: The House That Joe Built,False
-1975,1976,Documentary,"The Other Half Of The Sky: a China Memoir, The",The Other Half Of The Sky: a China Memoir,False
+1975,1976,Documentary,The Other Half Of The Sky: a China Memoir,The Other Half Of The Sky: a China Memoir,False
 1975,1976,Documentary,"U.F.O.s: Past, Present and Future","U.F.O.s: Past, Present and Future",False
 1976,1977,Best motion picture - drama,Rocky,Rocky,True
 1976,1977,Best motion picture - drama,Bound for Glory,Bound for Glory,False
 1976,1977,Best motion picture - drama,Network,Network,False
 1976,1977,Best motion picture - drama,Voyage of the Damned,Voyage of the Damned,False
 1976,1977,Best motion picture - drama,All The President's Men,All The President's Men,False
-1976,1977,Best motion picture - musical or comedy,"Star Is Born, A (1976)","Star Is Born, A (1976)",True
+1976,1977,Best motion picture - musical or comedy,A Star Is Born,A Star Is Born,True
 1976,1977,Best motion picture - musical or comedy,Bugsy Malone,Bugsy Malone,False
-1976,1977,Best motion picture - musical or comedy,"The Pink Panther Strikes Again, The",The Pink Panther Strikes Again,False
-1976,1977,Best motion picture - musical or comedy,"The Ritz, The",The Ritz,False
+1976,1977,Best motion picture - musical or comedy,The Pink Panther Strikes Again,The Pink Panther Strikes Again,False
+1976,1977,Best motion picture - musical or comedy,The Ritz,The Ritz,False
 1976,1977,Best motion picture - musical or comedy,Silent Movie,Silent Movie,False
 1976,1977,Best actress - drama,Faye Dunaway,Network,True
 1976,1977,Best actress - drama,Glenda Jackson,The Incredible Sarah,False
@@ -676,13 +676,13 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1976,1977,Best actor - drama,Robert De Niro,Taxi Driver,False
 1976,1977,Best actor - drama,Dustin Hoffman,Marathon Man,False
 1976,1977,Best actor - drama,Sylvester Stallone,Rocky,False
-1976,1977,Best actress - musical or comedy,Barbra Streisand,"Star Is Born, A (1976)",True
+1976,1977,Best actress - musical or comedy,Barbra Streisand,A Star Is Born,True
 1976,1977,Best actress - musical or comedy,Jodie Foster,Freaky Friday (1976),False
 1976,1977,Best actress - musical or comedy,Barbara Harris,Family Plot,False
 1976,1977,Best actress - musical or comedy,Barbara Harris,Freaky Friday (1976),False
 1976,1977,Best actress - musical or comedy,Goldie Hawn,The Duchess and The Dirtwater Fox,False
 1976,1977,Best actress - musical or comedy,Rita Moreno,The Ritz,False
-1976,1977,Best actor - musical or comedy,Kris Kristofferson,"Star Is Born, A (1976)",True
+1976,1977,Best actor - musical or comedy,Kris Kristofferson,A Star Is Born,True
 1976,1977,Best actor - musical or comedy,Mel Brooks,Silent Movie,False
 1976,1977,Best actor - musical or comedy,Peter Sellers,The Pink Panther Strikes Again,False
 1976,1977,Best actor - musical or comedy,Jack Weston,The Ritz,False
@@ -712,30 +712,30 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1976,1977,Best motion picture - foreign language,Face to Face,"Sweden, Ingmar Bergman",True
 1976,1977,Best motion picture - foreign language,"Cousin, Cousine","France, Jean-Charles Tacchella",False
 1976,1977,Best motion picture - foreign language,Seven Beauties,"Italy, Lina Wertmüller",False
-1976,1977,Best motion picture - foreign language,"The Slipper and the Rose - The Story of Cinderella, The","United Kingdom, Bryan Forbes",False
+1976,1977,Best motion picture - foreign language,The Slipper and the Rose - The Story of Cinderella,"United Kingdom, Bryan Forbes",False
 1976,1977,Best motion picture - foreign language,Small Change,"France, François Truffaut",False
-1976,1977,Best original score - motion picture,"Paul Williams, Kenny Ascher","Star Is Born, A (1976)",True
+1976,1977,Best original score - motion picture,"Paul Williams, Kenny Ascher",A Star Is Born,True
 1976,1977,Best original score - motion picture,Paul Williams,Bugsy Malone,False
 1976,1977,Best original score - motion picture,Bill Conti,Rocky,False
 1976,1977,Best original score - motion picture,"Richard M. Sherman, Robert B. Sherman",The Slipper and the Rose - The Story of Cinderella,False
 1976,1977,Best original score - motion picture,Lalo Schifrin,Voyage of the Damned,False
-1976,1977,Best original song - motion picture,"Evergreen , Barbra Streisand, Paul Williams","Star Is Born, A (1976)",True
+1976,1977,Best original song - motion picture,"Evergreen , Barbra Streisand, Paul Williams",A Star Is Born,True
 1976,1977,Best original song - motion picture,"I'd Like To Be You For a Day, Al Kasha, Joel Hirschhorn",Freaky Friday (1976),False
 1976,1977,Best original song - motion picture,"So Sad the Song, Michael Masser, Gerry Goffin",Pipe Dreams,False
 1976,1977,Best original song - motion picture,"Bugsy Malone, Paul Williams",Bugsy Malone,False
 1976,1977,Best original song - motion picture,"Car Wash, Norman Whitfield, Rose Royce",Car Wash,False
 1976,1977,Best original song - motion picture,"Hello and Goodbye, Alan Bergman, Marilyn Bergman, Elmer Bernstein",From Noon Till Three,False
 1976,1977,Documentary,Altars of the World,Altars of the World,True
-1976,1977,Documentary,"The Memory of Justice, The",The Memory of Justice,False
+1976,1977,Documentary,The Memory of Justice,The Memory of Justice,False
 1976,1977,Documentary,People of the Wind,People of the Wind,False
 1976,1977,Documentary,"That's Entertainment, Part 2","That's Entertainment, Part 2",False
 1976,1977,Documentary,Wings of an Eagle,Wings of an Eagle,False
-1977,1978,Best motion picture - drama,"The Turning Point, The",The Turning Point,True
+1977,1978,Best motion picture - drama,The Turning Point,The Turning Point,True
 1977,1978,Best motion picture - drama,Close Encounters of the Third Kind,Close Encounters of the Third Kind,False
 1977,1978,Best motion picture - drama,I Never Promised You a Rose Garden,I Never Promised You a Rose Garden,False
 1977,1978,Best motion picture - drama,Julia,Julia,False
 1977,1978,Best motion picture - drama,Star Wars: Episode IV - A New Hope,Star Wars: Episode IV - A New Hope,False
-1977,1978,Best motion picture - musical or comedy,"The Goodbye Girl, The",The Goodbye Girl,True
+1977,1978,Best motion picture - musical or comedy,The Goodbye Girl,The Goodbye Girl,True
 1977,1978,Best motion picture - musical or comedy,Annie Hall,Annie Hall,False
 1977,1978,Best motion picture - musical or comedy,High Anxiety,High Anxiety,False
 1977,1978,Best motion picture - musical or comedy,"New York, New York","New York, New York",False
@@ -747,7 +747,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1977,1978,Best actress - drama,Gena Rowlands,Opening Night,False
 1977,1978,Best actor - drama,Richard Burton,Equus,True
 1977,1978,Best actor - drama,Henry Winkler,Heroes,False
-1977,1978,Best actor - drama,Marcello Mastroianni,"Special Day, A",False
+1977,1978,Best actor - drama,Marcello Mastroianni,A Special Day,False
 1977,1978,Best actor - drama,Al Pacino,Bobby Deerfield,False
 1977,1978,Best actor - drama,Gregory Peck,MacArthur,False
 1977,1978,Best actress - musical or comedy,Diane Keaton,Annie Hall,True
@@ -781,7 +781,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1977,1978,Best screenplay - motion picture,Steven Spielberg,Close Encounters of the Third Kind,False
 1977,1978,Best screenplay - motion picture,Alvin Sargent,Julia,False
 1977,1978,Best screenplay - motion picture,Arthur Laurents,The Turning Point,False
-1977,1978,Best motion picture - foreign language,"Special Day, A","Italy, Ettore Scola",True
+1977,1978,Best motion picture - foreign language,A Special Day,"Italy, Ettore Scola",True
 1977,1978,Best motion picture - foreign language,Pardon Mon Affaire,"France, Yves Robert",False
 1977,1978,Best motion picture - foreign language,That Obscure Object of Desire,"France, Luis Buñuel",False
 1977,1978,Best motion picture - foreign language,Cría Cuervos,"Spain, Carlos Saura",False
@@ -799,15 +799,15 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1978,1979,Best motion picture - drama,Midnight Express,Midnight Express,True
 1978,1979,Best motion picture - drama,Coming Home,Coming Home,False
 1978,1979,Best motion picture - drama,Days of Heaven,Days of Heaven,False
-1978,1979,Best motion picture - drama,"The Deer Hunter, The",The Deer Hunter,False
-1978,1979,Best motion picture - drama,"Unmarried Woman, An","Unmarried Woman, An",False
+1978,1979,Best motion picture - drama,The Deer Hunter,The Deer Hunter,False
+1978,1979,Best motion picture - drama,An Unmarried Woman,An Unmarried Woman,False
 1978,1979,Best motion picture - musical or comedy,Heaven Can Wait,Heaven Can Wait,True
 1978,1979,Best motion picture - musical or comedy,Foul Play,Foul Play,False
 1978,1979,Best motion picture - musical or comedy,Grease,Grease,False
 1978,1979,Best motion picture - musical or comedy,Movie Movie,Movie Movie,False
 1978,1979,Best motion picture - musical or comedy,California Suite,California Suite,False
 1978,1979,Best actress - drama,Jane Fonda,Coming Home,True
-1978,1979,Best actress - drama,Jill Clayburgh,"Unmarried Woman, An",False
+1978,1979,Best actress - drama,Jill Clayburgh,An Unmarried Woman,False
 1978,1979,Best actress - drama,Glenda Jackson,Stevie,False
 1978,1979,Best actress - drama,Geraldine Page,Interiors,False
 1978,1979,Best actress - drama,Ingrid Bergman,Autumn Sonata,False
@@ -829,7 +829,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1978,1979,Best actor - musical or comedy,John Travolta,Grease,False
 1978,1979,Best supporting actress - motion picture,Dyan Cannon,Heaven Can Wait,True
 1978,1979,Best supporting actress - motion picture,Mona Washbourne,Stevie,False
-1978,1979,Best supporting actress - motion picture,Carol Burnett,"Wedding, A",False
+1978,1979,Best supporting actress - motion picture,Carol Burnett,A Wedding,False
 1978,1979,Best supporting actress - motion picture,Maureen Stapleton,Interiors,False
 1978,1979,Best supporting actress - motion picture,Meryl Streep,The Deer Hunter,False
 1978,1979,Best supporting actor - motion picture,John Hurt,Midnight Express,True
@@ -841,14 +841,14 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1978,1979,Best director - motion picture,Woody Allen,Interiors,False
 1978,1979,Best director - motion picture,Hal Ashby,Coming Home,False
 1978,1979,Best director - motion picture,Terrence Malick,Days of Heaven,False
-1978,1979,Best director - motion picture,Paul Mazursky,"Unmarried Woman, An",False
+1978,1979,Best director - motion picture,Paul Mazursky,An Unmarried Woman,False
 1978,1979,Best director - motion picture,Alan Parker,Midnight Express,False
 1978,1979,Best screenplay - motion picture,Oliver Stone,Midnight Express,True
 1978,1979,Best screenplay - motion picture,Robert C. Jones,Coming Home,False
 1978,1979,Best screenplay - motion picture,Deric Washburn,The Deer Hunter,False
 1978,1979,Best screenplay - motion picture,Colin Higgins,Foul Play,False
 1978,1979,Best screenplay - motion picture,Woody Allen,Interiors,False
-1978,1979,Best screenplay - motion picture,Paul Mazursky,"Unmarried Woman, An",False
+1978,1979,Best screenplay - motion picture,Paul Mazursky,An Unmarried Woman,False
 1978,1979,Best motion picture - foreign language,Autumn Sonata,"Sweden, Ingmar Bergman",True
 1978,1979,Best motion picture - foreign language,"Dream of Passion, A","Greece, Jules Dassin",False
 1978,1979,Best motion picture - foreign language,Get Out Your Handkerchiefs,"France, Bertrand Blier",False
@@ -857,7 +857,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1978,1979,Best motion picture - foreign language,Dona Flor and Her Two Husbands,"Brazil, Bruno Barreto",False
 1978,1979,Best original score - motion picture,Giorgio Moroder,Midnight Express,True
 1978,1979,Best original score - motion picture,John Williams,Superman,False
-1978,1979,Best original score - motion picture,Bill Conti,"Unmarried Woman, An",False
+1978,1979,Best original score - motion picture,Bill Conti,An Unmarried Woman,False
 1978,1979,Best original score - motion picture,Chuck Mangione,The Children of Sanchez,False
 1978,1979,Best original score - motion picture,Leonard Rosenman,The Lord of the Rings,False
 1978,1979,Best original song - motion picture,"Last Dance, Alec Constandinos",Thank God It's Friday,True
@@ -867,12 +867,12 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1978,1979,Best original song - motion picture,"You're the One That I Want, John Farrar",Grease,False
 1979,1980,Best motion picture - drama,Kramer vs. Kramer,Kramer vs. Kramer,True
 1979,1980,Best motion picture - drama,Apocalypse Now,Apocalypse Now,False
-1979,1980,Best motion picture - drama,"The China Syndrome, The",The China Syndrome,False
+1979,1980,Best motion picture - drama,The China Syndrome,The China Syndrome,False
 1979,1980,Best motion picture - drama,Manhattan,Manhattan,False
 1979,1980,Best motion picture - drama,Norma Rae,Norma Rae,False
 1979,1980,Best motion picture - musical or comedy,Breaking Away,Breaking Away,True
 1979,1980,Best motion picture - musical or comedy,Hair,Hair,False
-1979,1980,Best motion picture - musical or comedy,"The Rose, The",The Rose,False
+1979,1980,Best motion picture - musical or comedy,The Rose,The Rose,False
 1979,1980,Best motion picture - musical or comedy,10,10,False
 1979,1980,Best motion picture - musical or comedy,Being There,Being There,False
 1979,1980,Best actress - drama,Sally Field,Norma Rae,True
@@ -904,7 +904,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1979,1980,Best supporting actor - motion picture,Robert Duvall,Apocalypse Now,True
 1979,1980,Best supporting actor - motion picture,Frederic Forrest,The Rose,False
 1979,1980,Best supporting actor - motion picture,Justin Henry,Kramer vs. Kramer,False
-1979,1980,Best supporting actor - motion picture,Laurence Olivier,"Little Romance, A",False
+1979,1980,Best supporting actor - motion picture,Laurence Olivier,A Little Romance,False
 1979,1980,Best director - motion picture,Francis Ford Coppola,Apocalypse Now,True
 1979,1980,Best director - motion picture,Hal Ashby,Being There,False
 1979,1980,Best director - motion picture,Robert Benton,Kramer vs. Kramer,False
@@ -921,7 +921,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1979,1980,Best motion picture - foreign language,"Europeans, The","United Kingdom, James Ivory",False
 1979,1980,Best motion picture - foreign language,"Marriage of Maria Braun, The","West Germany, Rainer Werner Fassbinder",False
 1979,1980,Best original score - motion picture,Carmine Coppola,Apocalypse Now,True
-1979,1980,Best original score - motion picture,Georges Delerue,"Little Romance, A",False
+1979,1980,Best original score - motion picture,Georges Delerue,A Little Romance,False
 1979,1980,Best original score - motion picture,Jerry Goldsmith,Star Trek: The Motion Picture,False
 1979,1980,Best original score - motion picture,Henry Mancini,10,False
 1979,1980,Best original score - motion picture,Jerry Goldsmith,Alien,False
@@ -933,14 +933,14 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1979,1980,Best original song - motion picture,"The Rainbow Connection, Paul Williams, Kenny Ascher",The Muppet Movie,False
 1979,1980,Best original song - motion picture,"Through the Eyes of Love (Theme from Ice Castles), Marvin Hamlisch, Carole Bayer Sager",Ice Castles,False
 1980,1981,Best motion picture - drama,Ordinary People,Ordinary People,True
-1980,1981,Best motion picture - drama,"The Ninth Configuration, The",The Ninth Configuration,False
+1980,1981,Best motion picture - drama,The Ninth Configuration,The Ninth Configuration,False
 1980,1981,Best motion picture - drama,Raging Bull,Raging Bull,False
-1980,1981,Best motion picture - drama,"The Stunt Man, The",The Stunt Man,False
-1980,1981,Best motion picture - drama,"The Elephant Man, The",The Elephant Man,False
+1980,1981,Best motion picture - drama,The Stunt Man,The Stunt Man,False
+1980,1981,Best motion picture - drama,The Elephant Man,The Elephant Man,False
 1980,1981,Best motion picture - musical or comedy,Coal Miner's Daughter,Coal Miner's Daughter,True
 1980,1981,Best motion picture - musical or comedy,Airplane!,Airplane!,False
 1980,1981,Best motion picture - musical or comedy,Fame,Fame,False
-1980,1981,Best motion picture - musical or comedy,"The Idolmaker, The",The Idolmaker,False
+1980,1981,Best motion picture - musical or comedy,The Idolmaker,The Idolmaker,False
 1980,1981,Best motion picture - musical or comedy,Melvin and Howard,Melvin and Howard,False
 1980,1981,Best actress - drama,Mary Tyler Moore,Ordinary People,True
 1980,1981,Best actress - drama,Ellen Burstyn,Resurrection,False
@@ -1001,7 +1001,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1980,1981,Best original song - motion picture,"Yesterday's Dreams, Michel Legrand, Carol Connors, Johnny Mathis",Falling In Love Again,False
 1980,1981,Best original song - motion picture,"Endless Love, Lionel Richie, Diana Ross",Endless Love,False
 1981,1982,Best motion picture - drama,On Golden Pond,On Golden Pond,True
-1981,1982,Best motion picture - drama,"The French Lieutenant's Woman, The",The French Lieutenant's Woman,False
+1981,1982,Best motion picture - drama,The French Lieutenant's Woman,The French Lieutenant's Woman,False
 1981,1982,Best motion picture - drama,Prince of the City,Prince of the City,False
 1981,1982,Best motion picture - drama,Ragtime,Ragtime,False
 1981,1982,Best motion picture - drama,Reds,Reds,False
@@ -1009,7 +1009,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1981,1982,Best motion picture - musical or comedy,Pennies from Heaven,Pennies from Heaven,False
 1981,1982,Best motion picture - musical or comedy,S. O. B.,S. O. B.,False
 1981,1982,Best motion picture - musical or comedy,Zoot Suit,Zoot Suit,False
-1981,1982,Best motion picture - musical or comedy,"The Four Seasons, The",The Four Seasons,False
+1981,1982,Best motion picture - musical or comedy,The Four Seasons,The Four Seasons,False
 1981,1982,Best actress - drama,Meryl Streep,The French Lieutenant's Woman,True
 1981,1982,Best actress - drama,Katharine Hepburn,On Golden Pond,False
 1981,1982,Best actress - drama,Diane Keaton,Reds,False
@@ -1028,7 +1028,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1981,1982,Best actor - musical or comedy,Dudley Moore,Arthur,True
 1981,1982,Best actor - musical or comedy,Walter Matthau,First Monday in October,False
 1981,1982,Best actor - musical or comedy,Alan Alda,The Four Seasons,False
-1981,1982,Best actor - musical or comedy,George Hamilton,The Zorro Gay Blade,False
+1981,1982,Best actor - musical or comedy,George Hamilton,"Zorro, The Gay Blade",False
 1981,1982,Best actor - musical or comedy,Steve Martin,Pennies from Heaven,False
 1981,1982,Best supporting actress - motion picture,Joan Hackett,Only When I Laugh,True
 1981,1982,Best supporting actress - motion picture,Jane Fonda,On Golden Pond,False
@@ -1062,22 +1062,22 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1981,1982,Best original song - motion picture,"One More Hour, Randy Newman, Jennifer Warnes",Ragtime,False
 1982,1983,Best motion picture - drama,E. T. The Extra-Terrestrial,E. T. The Extra-Terrestrial,True
 1982,1983,Best motion picture - drama,Missing,Missing,False
-1982,1983,Best motion picture - drama,"Officer and a Gentleman, An","Officer and a Gentleman, An",False
+1982,1983,Best motion picture - drama,An Officer and a Gentleman,An Officer and a Gentleman,False
 1982,1983,Best motion picture - drama,Sophie's Choice,Sophie's Choice,False
-1982,1983,Best motion picture - drama,"The Verdict, The",The Verdict,False
+1982,1983,Best motion picture - drama,The Verdict,The Verdict,False
 1982,1983,Best motion picture - musical or comedy,Tootsie,Tootsie,True
-1982,1983,Best motion picture - musical or comedy,"The Best Little Whorehouse In Texas, The",The Best Little Whorehouse In Texas,False
+1982,1983,Best motion picture - musical or comedy,The Best Little Whorehouse In Texas,The Best Little Whorehouse In Texas,False
 1982,1983,Best motion picture - musical or comedy,Diner,Diner,False
 1982,1983,Best motion picture - musical or comedy,My Favorite Year,My Favorite Year,False
 1982,1983,Best motion picture - musical or comedy,Victor Victoria,Victor Victoria,False
 1982,1983,Best actress - drama,Meryl Streep,Sophie's Choice,True
-1982,1983,Best actress - drama,Debra Winger,"Officer and a Gentleman, An",False
+1982,1983,Best actress - drama,Debra Winger,An Officer and a Gentleman,False
 1982,1983,Best actress - drama,Diane Keaton,Shoot The Moon,False
 1982,1983,Best actress - drama,Jessica Lange,Frances,False
 1982,1983,Best actress - drama,Sissy Spacek,Missing,False
 1982,1983,Best actor - drama,Ben Kingsley,Gandhi,True
 1982,1983,Best actor - drama,Albert Finney,Shoot The Moon,False
-1982,1983,Best actor - drama,Richard Gere,"Officer and a Gentleman, An",False
+1982,1983,Best actor - drama,Richard Gere,An Officer and a Gentleman,False
 1982,1983,Best actor - drama,Jack Lemmon,Missing,False
 1982,1983,Best actor - drama,Paul Newman,The Verdict,False
 1982,1983,Best actress - musical or comedy,Julie Andrews,Victor Victoria,True
@@ -1096,9 +1096,9 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1982,1983,Best supporting actress - motion picture,Lainie Kazan,My Favorite Year,False
 1982,1983,Best supporting actress - motion picture,Kim Stanley,Frances,False
 1982,1983,Best supporting actress - motion picture,Lesley Ann Warren,Victor Victoria,False
-1982,1983,Best supporting actor - motion picture,Louis Gossett Jr.,"Officer and a Gentleman, An",True
+1982,1983,Best supporting actor - motion picture,Louis Gossett Jr.,An Officer and a Gentleman,True
 1982,1983,Best supporting actor - motion picture,Raul Julia,Tempest,False
-1982,1983,Best supporting actor - motion picture,David Keith,"Officer and a Gentleman, An",False
+1982,1983,Best supporting actor - motion picture,David Keith,An Officer and a Gentleman,False
 1982,1983,Best supporting actor - motion picture,James Mason,The Verdict,False
 1982,1983,Best supporting actor - motion picture,Jim Metzler,Tex,False
 1982,1983,Best director - motion picture,Richard Attenborough,Gandhi,True
@@ -1122,18 +1122,18 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1982,1983,Best original score - motion picture,Giorgio Moroder,Cat People,False
 1982,1983,Best original score - motion picture,Dudley Moore,Six Weeks,False
 1982,1983,Best original score - motion picture,Henry Mancini,Victor Victoria,False
-1982,1983,Best original song - motion picture,"Up Where We Belong, Jack Nitzsche, Buffy Sainte-Marie, Will Jennings","Officer and a Gentleman, An",True
+1982,1983,Best original song - motion picture,"Up Where We Belong, Jack Nitzsche, Buffy Sainte-Marie, Will Jennings",An Officer and a Gentleman,True
 1982,1983,Best original song - motion picture,"Eye of the Tiger, Survivor, Jim Peterik, Frankie Sullivan III",Rocky III,False
 1982,1983,Best original song - motion picture,"If We Were In Love, John Williams, Alan Bergman, Marilyn Bergman","Yes, Giorgio",False
 1982,1983,Best original song - motion picture,"Making Love, Burt Bacharach, Bruce Roberts, Carole Bayer Sager",Making Love,False
 1982,1983,Best original song - motion picture,"Putting Out the Fire (Theme From Cat People), Giorgio Moroder, David Bowie",Cat People,False
 1983,1984,Best motion picture - drama,Terms of Endearment,Terms of Endearment,True
 1983,1984,Best motion picture - drama,"Reuben, Reuben","Reuben, Reuben",False
-1983,1984,Best motion picture - drama,"The Right Stuff, The",The Right Stuff,False
+1983,1984,Best motion picture - drama,The Right Stuff,The Right Stuff,False
 1983,1984,Best motion picture - drama,Silkwood,Silkwood,False
 1983,1984,Best motion picture - drama,Tender Mercies,Tender Mercies,False
 1983,1984,Best motion picture - musical or comedy,Yentl,Yentl,True
-1983,1984,Best motion picture - musical or comedy,"The Big Chill, The",The Big Chill,False
+1983,1984,Best motion picture - musical or comedy,The Big Chill,The Big Chill,False
 1983,1984,Best motion picture - musical or comedy,Flashdance,Flashdance,False
 1983,1984,Best motion picture - musical or comedy,Trading Places,Trading Places,False
 1983,1984,Best motion picture - musical or comedy,Zelig,Zelig,False
@@ -1184,7 +1184,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1983,1984,Best motion picture - foreign language,Carmen,"Spain, Carlos Saura",False
 1983,1984,Best motion picture - foreign language,The Dresser,"United Kingdom, Peter Yates",False
 1983,1984,Best motion picture - foreign language,Educating Rita,"United Kingdom, Lewis Gilbert",False
-1983,1984,Best motion picture - foreign language,"The Grey Fox, The","Canada, Lewis Gilbert",False
+1983,1984,Best motion picture - foreign language,The Grey Fox,"Canada, Lewis Gilbert",False
 1983,1984,Best original score - motion picture,Giorgio Moroder,Flashdance,True
 1983,1984,Best original score - motion picture,Stewart Copeland,Rumble Fish,False
 1983,1984,Best original score - motion picture,Giorgio Moroder,Scarface,False
@@ -1196,10 +1196,10 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1983,1984,Best original song - motion picture,"Over You, Austin Roberts, Bobby Hart",Tender Mercies,False
 1983,1984,Best original song - motion picture,"The Way He Makes Me Feel, Michel Legrand, Alan Bergman, Marilyn Bergman",Yentl,False
 1984,1985,Best motion picture - drama,Amadeus,Amadeus,True
-1984,1985,Best motion picture - drama,"The Killing Fields, The",The Killing Fields,False
+1984,1985,Best motion picture - drama,The Killing Fields,The Killing Fields,False
 1984,1985,Best motion picture - drama,Places in the Heart,Places in the Heart,False
-1984,1985,Best motion picture - drama,"Soldier's Story, A","Soldier's Story, A",False
-1984,1985,Best motion picture - drama,"The Cotton Club, The",The Cotton Club,False
+1984,1985,Best motion picture - drama,A Soldier's Story,A Soldier's Story,False
+1984,1985,Best motion picture - drama,The Cotton Club,The Cotton Club,False
 1984,1985,Best motion picture - musical or comedy,Romancing the Stone,Romancing the Stone,True
 1984,1985,Best motion picture - musical or comedy,Beverly Hills Cop,Beverly Hills Cop,False
 1984,1985,Best motion picture - musical or comedy,Ghostbusters,Ghostbusters,False
@@ -1209,7 +1209,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1984,1985,Best actress - drama,Diane Keaton,Mrs. Soffel,False
 1984,1985,Best actress - drama,Jessica Lange,Country,False
 1984,1985,Best actress - drama,Vanessa Redgrave,The Bostonians,False
-1984,1985,Best actress - drama,Sissy Spacek,The River (1984),False
+1984,1985,Best actress - drama,Sissy Spacek,"River, The (1984)",False
 1984,1985,Best actor - drama,F. Murray Abraham,Amadeus,True
 1984,1985,Best actor - drama,Jeff Bridges,John Carpenter's Starman,False
 1984,1985,Best actor - drama,Albert Finney,Under The Volcano,False
@@ -1225,7 +1225,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1984,1985,Best actor - musical or comedy,Eddie Murphy,Beverly Hills Cop,False
 1984,1985,Best actor - musical or comedy,Bill Murray,Ghostbusters,False
 1984,1985,Best actor - musical or comedy,Robin Williams,Moscow on the Hudson,False
-1984,1985,Best supporting actress - motion picture,Peggy Ashcroft,"Passage to India, A",True
+1984,1985,Best supporting actress - motion picture,Peggy Ashcroft,A Passage to India,True
 1984,1985,Best supporting actress - motion picture,Christine Lahti,Swing Shift,False
 1984,1985,Best supporting actress - motion picture,Lesley Ann Warren,Songwriter,False
 1984,1985,Best supporting actress - motion picture,Drew Barrymore,Irreconcilable Differences,False
@@ -1233,26 +1233,26 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1984,1985,Best supporting actress - motion picture,Jacqueline Bisset,Under The Volcano,False
 1984,1985,Best supporting actress - motion picture,Melanie Griffith,Body Double,False
 1984,1985,Best supporting actor - motion picture,Haing S. Ngor,The Killing Fields,True
-1984,1985,Best supporting actor - motion picture,Adolph Caesar,"Soldier's Story, A",False
+1984,1985,Best supporting actor - motion picture,Adolph Caesar,A Soldier's Story,False
 1984,1985,Best supporting actor - motion picture,Richard Crenna,The Flamingo Kid,False
 1984,1985,Best supporting actor - motion picture,Jeffrey Jones,Amadeus,False
 1984,1985,Best supporting actor - motion picture,Pat Morita,The Karate Kid,False
 1984,1985,Best director - motion picture,Milos Forman,Amadeus,True
 1984,1985,Best director - motion picture,Francis Ford Coppola,The Cotton Club,False
 1984,1985,Best director - motion picture,Roland Joffé,The Killing Fields,False
-1984,1985,Best director - motion picture,David Lean,"Passage to India, A",False
+1984,1985,Best director - motion picture,David Lean,A Passage to India,False
 1984,1985,Best director - motion picture,Sergio Leone,Once Upon a Time in America,False
 1984,1985,Best screenplay - motion picture,Peter Shaffer,Amadeus,True
 1984,1985,Best screenplay - motion picture,Bruce Robinson,The Killing Fields,False
-1984,1985,Best screenplay - motion picture,David Lean,"Passage to India, A",False
+1984,1985,Best screenplay - motion picture,David Lean,A Passage to India,False
 1984,1985,Best screenplay - motion picture,Robert Benton,Places in the Heart,False
-1984,1985,Best screenplay - motion picture,Charles Fuller,"Soldier's Story, A",False
-1984,1985,Best motion picture - foreign language,"Passage to India, A","United Kingdom, David Lean",True
+1984,1985,Best screenplay - motion picture,Charles Fuller,A Soldier's Story,False
+1984,1985,Best motion picture - foreign language,A Passage to India,"United Kingdom, David Lean",True
 1984,1985,Best motion picture - foreign language,Dangerous Moves,"Switzerland, Richard Dembo",False
 1984,1985,Best motion picture - foreign language,"Paris, Texas","France, Wim Wenders",False
 1984,1985,Best motion picture - foreign language,"Sunday in the Country, A","France, Bertrand Tavernier",False
 1984,1985,Best motion picture - foreign language,Bizet's Carmen,"France, Francesco Rosi",False
-1984,1985,Best original score - motion picture,Maurice Jarre,"Passage to India, A",True
+1984,1985,Best original score - motion picture,Maurice Jarre,A Passage to India,True
 1984,1985,Best original score - motion picture,Mike Oldfield,The Killing Fields,False
 1984,1985,Best original score - motion picture,Ennio Morricone,Once Upon a Time in America,False
 1984,1985,Best original score - motion picture,John Williams,The River,False
@@ -1263,15 +1263,15 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1984,1985,Best original song - motion picture,"No More Lonely Nights, Paul McCartney",Give My Regards To Broad Street,False
 1984,1985,Best original song - motion picture,"Ghostbusters, Ray Parker Jr.",Ghostbusters,False
 1985,1986,Best motion picture - drama,Out of Africa,Out of Africa,True
-1985,1986,Best motion picture - drama,"The Color Purple, The",The Color Purple,False
+1985,1986,Best motion picture - drama,The Color Purple,The Color Purple,False
 1985,1986,Best motion picture - drama,Kiss of the Spider Woman,Kiss of the Spider Woman,False
 1985,1986,Best motion picture - drama,Runaway Train,Runaway Train,False
 1985,1986,Best motion picture - drama,Witness,Witness,False
 1985,1986,Best motion picture - musical or comedy,Prizzi's Honor,Prizzi's Honor,True
 1985,1986,Best motion picture - musical or comedy,Back To The Future,Back To The Future,False
-1985,1986,Best motion picture - musical or comedy,"Chorus Line: The Movie, A","Chorus Line: The Movie, A",False
+1985,1986,Best motion picture - musical or comedy,A Chorus Line: The Movie,A Chorus Line: The Movie,False
 1985,1986,Best motion picture - musical or comedy,Cocoon,Cocoon,False
-1985,1986,Best motion picture - musical or comedy,"The Purple Rose of Cairo, The",The Purple Rose of Cairo,False
+1985,1986,Best motion picture - musical or comedy,The Purple Rose of Cairo,The Purple Rose of Cairo,False
 1985,1986,Best actress - drama,Whoopi Goldberg,The Color Purple,True
 1985,1986,Best actress - drama,Meryl Streep,Out of Africa,False
 1985,1986,Best actress - drama,Anne Bancroft,Agnes of God,False
@@ -1304,7 +1304,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1985,1986,Best supporting actor - motion picture,Eric Roberts,Runaway Train,False
 1985,1986,Best supporting actor - motion picture,Eric Stoltz,Mask,False
 1985,1986,Best director - motion picture,John Huston,Prizzi's Honor,True
-1985,1986,Best director - motion picture,Richard Attenborough,"Chorus Line: The Movie, A",False
+1985,1986,Best director - motion picture,Richard Attenborough,A Chorus Line: The Movie,False
 1985,1986,Best director - motion picture,Sydney Pollack,Out of Africa,False
 1985,1986,Best director - motion picture,Steven Spielberg,The Color Purple,False
 1985,1986,Best director - motion picture,Peter Weir,Witness,False
@@ -1326,13 +1326,13 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1985,1986,Best original song - motion picture,"Say You, Say Me, Lionel Richie",White Nights,True
 1985,1986,Best original song - motion picture,"The Power of Love, Huey Lewis, Chris Hayes",Back To The Future,False
 1985,1986,Best original song - motion picture,"Rhythm of the Night, Diane Warren",Berry Gordy's The Last Dragon,False
-1985,1986,Best original song - motion picture,"A View To a Kill, John Barry, Duran Duran, Bernard Edwards","View to a Kill, A",False
+1985,1986,Best original song - motion picture,"A View To a Kill, John Barry, Duran Duran, Bernard Edwards",A View to a Kill,False
 1985,1986,Best original song - motion picture,"We Don't Need Another Hero (Thunderdome), Terry Britten, Graham Lyle",Mad Max Beyond Thunderdome,False
 1986,1987,Best motion picture - drama,Platoon,Platoon,True
 1986,1987,Best motion picture - drama,Children of a Lesser God,Children of a Lesser God,False
-1986,1987,Best motion picture - drama,"The Mission, The",The Mission,False
+1986,1987,Best motion picture - drama,The Mission,The Mission,False
 1986,1987,Best motion picture - drama,Mona Lisa,Mona Lisa,False
-1986,1987,Best motion picture - drama,"Room with a View, A","Room with a View, A",False
+1986,1987,Best motion picture - drama,A Room with a View,A Room with a View,False
 1986,1987,Best motion picture - drama,Stand By Me,Stand By Me,False
 1986,1987,Best motion picture - musical or comedy,Hannah and Her Sisters,Hannah and Her Sisters,True
 1986,1987,Best motion picture - musical or comedy,Crimes of the Heart,Crimes of the Heart,False
@@ -1361,7 +1361,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1986,1987,Best actor - musical or comedy,Jeff Daniels,Something Wild,False
 1986,1987,Best actor - musical or comedy,Danny DeVito,Ruthless People,False
 1986,1987,Best actor - musical or comedy,Jack Lemmon,That's Life!,False
-1986,1987,Best supporting actress - motion picture,Maggie Smith,"Room with a View, A",True
+1986,1987,Best supporting actress - motion picture,Maggie Smith,A Room with a View,True
 1986,1987,Best supporting actress - motion picture,Linda Kozlowski ,Crocodile Dundee,False
 1986,1987,Best supporting actress - motion picture,Mary Elizabeth Mastrantonio,The Color of Money,False
 1986,1987,Best supporting actress - motion picture,Cathy Tyson,Mona Lisa,False
@@ -1374,7 +1374,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1986,1987,Best director - motion picture,Oliver Stone,Platoon,True
 1986,1987,Best director - motion picture,Rob Reiner,Stand By Me,False
 1986,1987,Best director - motion picture,Woody Allen,Hannah and Her Sisters,False
-1986,1987,Best director - motion picture,James Ivory,"Room with a View, A",False
+1986,1987,Best director - motion picture,James Ivory,A Room with a View,False
 1986,1987,Best director - motion picture,Roland Joffé,The Mission,False
 1986,1987,Best screenplay - motion picture,Robert Bolt,The Mission,True
 1986,1987,Best screenplay - motion picture,Oliver Stone,Platoon,False
@@ -1394,10 +1394,10 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1986,1987,Best original song - motion picture,"Take My Breath Away, Giorgio Moroder, Tom Whitlock",Top Gun,True
 1986,1987,Best original song - motion picture,"The Glory of Love, Peter Cetera, David Foster",The Karate Kid Part II,False
 1986,1987,Best original song - motion picture,"Life in a Looking Glass, Henry Mancini, Leslie Bricusse",That's Life!,False
-1986,1987,Best original song - motion picture,"Somewhere Out There, James Horner, Barry Mann, Cynthia Weil","American Tail, An",False
+1986,1987,Best original song - motion picture,"Somewhere Out There, James Horner, Barry Mann, Cynthia Weil",An American Tail,False
 1986,1987,Best original song - motion picture,"Sweet Freedom, Rod Temperton",Running Scared,False
 1986,1987,Best original song - motion picture,"They Don't Make Them Like They Used To, Burt Bacharach, Carole Bayer Sager",Tough Guys,False
-1987,1988,Best motion picture - drama,"The Last Emperor, The",The Last Emperor,True
+1987,1988,Best motion picture - drama,The Last Emperor,The Last Emperor,True
 1987,1988,Best motion picture - drama,Empire of the Sun,Empire of the Sun,False
 1987,1988,Best motion picture - drama,Fatal Attraction,Fatal Attraction,False
 1987,1988,Best motion picture - drama,La Bamba,La Bamba,False
@@ -1465,36 +1465,36 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1987,1988,Best original song - motion picture,"Nothing's Gonna Stop Us Now, Donald Markowitz, John DeNicola, Franke Previte",Mannequin,False
 1987,1988,Best original song - motion picture,"The Secret Of My Success, David Foster, Tom Keane, Tim DuBois",The Secret of My Success,False
 1988,1989,Best motion picture - drama,Rain Man,Rain Man,True
-1988,1989,Best motion picture - drama,"Cry in the Dark, A","Cry in the Dark, A",False
+1988,1989,Best motion picture - drama,A Cry in the Dark,A Cry in the Dark,False
 1988,1989,Best motion picture - drama,Gorillas in the Mist: The Adventure of Dian Fossey,Gorillas in the Mist: The Adventure of Dian Fossey,False
 1988,1989,Best motion picture - drama,Mississippi Burning,Mississippi Burning,False
 1988,1989,Best motion picture - drama,Running on Empty,Running on Empty,False
-1988,1989,Best motion picture - drama,"The Unbearable Lightness of Being, The",The Unbearable Lightness of Being,False
-1988,1989,Best motion picture - drama,"The Accidental Tourist, The",The Accidental Tourist,False
+1988,1989,Best motion picture - drama,The Unbearable Lightness of Being,The Unbearable Lightness of Being,False
+1988,1989,Best motion picture - drama,The Accidental Tourist,The Accidental Tourist,False
 1988,1989,Best motion picture - musical or comedy,Working Girl,Working Girl,True
 1988,1989,Best motion picture - musical or comedy,Big,Big,False
-1988,1989,Best motion picture - musical or comedy,"Fish Called Wanda, A","Fish Called Wanda, A",False
+1988,1989,Best motion picture - musical or comedy,A Fish Called Wanda,A Fish Called Wanda,False
 1988,1989,Best motion picture - musical or comedy,Midnight Run,Midnight Run,False
 1988,1989,Best motion picture - musical or comedy,Who Framed Roger Rabbit,Who Framed Roger Rabbit,False
 1988,1989,Best actress - drama,Jodie Foster,The Accused,True
 1988,1989,Best actress - drama,Shirley MacLaine,Madame Sousatzka,True
 1988,1989,Best actress - drama,Sigourney Weaver,Gorillas in the Mist: The Adventure of Dian Fossey,True
 1988,1989,Best actress - drama,Christine Lahti,Running on Empty,False
-1988,1989,Best actress - drama,Meryl Streep,"Cry in the Dark, A",False
+1988,1989,Best actress - drama,Meryl Streep,A Cry in the Dark,False
 1988,1989,Best actor - drama,Dustin Hoffman,Rain Man,True
 1988,1989,Best actor - drama,Gene Hackman,Mississippi Burning,False
 1988,1989,Best actor - drama,Tom Hulce,Dominick & Eugene,False
 1988,1989,Best actor - drama,Edward James Olmos,Stand and Deliver,False
 1988,1989,Best actor - drama,Forest Whitaker,Bird,False
 1988,1989,Best actress - musical or comedy,Melanie Griffith,Working Girl,True
-1988,1989,Best actress - musical or comedy,Jamie Lee Curtis,"Fish Called Wanda, A",False
+1988,1989,Best actress - musical or comedy,Jamie Lee Curtis,A Fish Called Wanda,False
 1988,1989,Best actress - musical or comedy,Amy Irving,Crossing Delancey,False
 1988,1989,Best actress - musical or comedy,Michelle Pfeiffer,Married to the Mob,False
 1988,1989,Best actress - musical or comedy,Susan Sarandon,Bull Durham,False
 1988,1989,Best actor - musical or comedy,Tom Hanks,Big,True
 1988,1989,Best actor - musical or comedy,Bob Hoskins,Who Framed Roger Rabbit,False
 1988,1989,Best actor - musical or comedy,Michael Caine,Dirty Rotten Scoundrels,False
-1988,1989,Best actor - musical or comedy,John Cleese,"Fish Called Wanda, A",False
+1988,1989,Best actor - musical or comedy,John Cleese,A Fish Called Wanda,False
 1988,1989,Best actor - musical or comedy,Robert De Niro,Midnight Run,False
 1988,1989,Best supporting actress - motion picture,Sigourney Weaver,Working Girl,True
 1988,1989,Best supporting actress - motion picture,Sônia Braga,Moon Over Parador,False
@@ -1512,9 +1512,9 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1988,1989,Best director - motion picture,Sidney Lumet,Running on Empty,False
 1988,1989,Best director - motion picture,Mike Nichols,Working Girl,False
 1988,1989,Best director - motion picture,Alan Parker,Mississippi Burning,False
-1988,1989,Best director - motion picture,Fred Schepisi,"Cry in the Dark, A",False
+1988,1989,Best director - motion picture,Fred Schepisi,A Cry in the Dark,False
 1988,1989,Best screenplay - motion picture,Naomi Foner,Running on Empty,True
-1988,1989,Best screenplay - motion picture,Robert Caswell,"Cry in the Dark, A",False
+1988,1989,Best screenplay - motion picture,Robert Caswell,A Cry in the Dark,False
 1988,1989,Best screenplay - motion picture,Chris Gerolmo,Mississippi Burning,False
 1988,1989,Best screenplay - motion picture,Ronald Bass,Rain Man,False
 1988,1989,Best screenplay - motion picture,Kevin Wade,Working Girl,False
@@ -1540,9 +1540,9 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1989,1990,Best motion picture - drama,Do The Right Thing,Do The Right Thing,False
 1989,1990,Best motion picture - drama,Glory,Glory,False
 1989,1990,Best motion picture - musical or comedy,Driving Miss Daisy,Driving Miss Daisy,True
-1989,1990,Best motion picture - musical or comedy,"The Little Mermaid, The",The Little Mermaid,False
+1989,1990,Best motion picture - musical or comedy,The Little Mermaid,The Little Mermaid,False
 1989,1990,Best motion picture - musical or comedy,Shirley Valentine,Shirley Valentine,False
-1989,1990,Best motion picture - musical or comedy,"The War of The Roses, The",The War of The Roses,False
+1989,1990,Best motion picture - musical or comedy,The War of The Roses,The War of The Roses,False
 1989,1990,Best motion picture - musical or comedy,When Harry Met Sally,When Harry Met Sally,False
 1989,1990,Best actress - drama,Michelle Pfeiffer,The Fabulous Baker Boys,True
 1989,1990,Best actress - drama,Liv Ullmann,The Rose Garden,False
@@ -1572,7 +1572,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1989,1990,Best supporting actor - motion picture,Denzel Washington,Glory,True
 1989,1990,Best supporting actor - motion picture,Bruce Willis,In Country,False
 1989,1990,Best supporting actor - motion picture,Danny Aiello,Do The Right Thing,False
-1989,1990,Best supporting actor - motion picture,Marlon Brando,"Dry White Season, A",False
+1989,1990,Best supporting actor - motion picture,Marlon Brando,A Dry White Season,False
 1989,1990,Best supporting actor - motion picture,Sean Connery,Indiana Jones and The Last Crusade,False
 1989,1990,Best supporting actor - motion picture,Ed Harris,Jacknife,False
 1989,1990,Best director - motion picture,Oliver Stone,Born on the Fourth of July,True
@@ -1603,7 +1603,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1989,1990,Best original song - motion picture,"Kiss the Girl, Alan Menken, Howard Ashman",The Little Mermaid,False
 1990,1991,Best motion picture - drama,Dances with Wolves,Dances with Wolves,True
 1990,1991,Best motion picture - drama,Avalon,Avalon,False
-1990,1991,Best motion picture - drama,"The Godfather Part III, The",The Godfather Part III,False
+1990,1991,Best motion picture - drama,The Godfather Part III,The Godfather Part III,False
 1990,1991,Best motion picture - drama,GoodFellas,GoodFellas,False
 1990,1991,Best motion picture - drama,Reversal of Fortune,Reversal of Fortune,False
 1990,1991,Best motion picture - musical or comedy,Green Card,Green Card,True
@@ -1670,12 +1670,12 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1990,1991,Best original song - motion picture,"What Can You Lose?, Stephen Sondheim",Dick Tracy,False
 1991,1992,Best motion picture - drama,Bugsy,Bugsy,True
 1991,1992,Best motion picture - drama,JFK,JFK,False
-1991,1992,Best motion picture - drama,"The Prince of Tides, The",The Prince of Tides,False
-1991,1992,Best motion picture - drama,"The Silence of the Lambs, The",The Silence of the Lambs,False
+1991,1992,Best motion picture - drama,The Prince of Tides,The Prince of Tides,False
+1991,1992,Best motion picture - drama,The Silence of the Lambs,The Silence of the Lambs,False
 1991,1992,Best motion picture - drama,Thelma & Louise,Thelma & Louise,False
 1991,1992,Best motion picture - musical or comedy,Beauty and the Beast,Beauty and the Beast,True
-1991,1992,Best motion picture - musical or comedy,"The Commitments, The",The Commitments,False
-1991,1992,Best motion picture - musical or comedy,"The Fisher King, The",The Fisher King,False
+1991,1992,Best motion picture - musical or comedy,The Commitments,The Commitments,False
+1991,1992,Best motion picture - musical or comedy,The Fisher King,The Fisher King,False
 1991,1992,Best motion picture - musical or comedy,Fried Green Tomatoes,Fried Green Tomatoes,False
 1991,1992,Best motion picture - musical or comedy,City Slickers,City Slickers,False
 1991,1992,Best actress - drama,Jodie Foster,The Silence of the Lambs,True
@@ -1736,11 +1736,11 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1991,1992,Best original song - motion picture,"Be Our Guest, Alan Menken, Howard Ashman",Beauty and the Beast,False
 1991,1992,Best original song - motion picture,"Dreams to Dream, James Horner, Will Jennings","American Tail, An : Fievel Goes West",False
 1992,1993,Best motion picture - drama,Scent of a Woman,Scent of a Woman,True
-1992,1993,Best motion picture - drama,"Few Good Men, A","Few Good Men, A",False
+1992,1993,Best motion picture - drama,A Few Good Men,A Few Good Men,False
 1992,1993,Best motion picture - drama,Howards End,Howards End,False
 1992,1993,Best motion picture - drama,Unforgiven,Unforgiven,False
-1992,1993,Best motion picture - drama,"The Crying Game, The",The Crying Game,False
-1992,1993,Best motion picture - musical or comedy,"The Player, The",The Player,True
+1992,1993,Best motion picture - drama,The Crying Game,The Crying Game,False
+1992,1993,Best motion picture - musical or comedy,The Player,The Player,True
 1992,1993,Best motion picture - musical or comedy,Aladdin,Aladdin,False
 1992,1993,Best motion picture - musical or comedy,Enchanted April,Enchanted April,False
 1992,1993,Best motion picture - musical or comedy,Honeymoon In Vegas,Honeymoon In Vegas,False
@@ -1751,12 +1751,12 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1992,1993,Best actress - drama,Susan Sarandon,Lorenzo's Oil,False
 1992,1993,Best actress - drama,Sharon Stone,Basic Instinct,False
 1992,1993,Best actor - drama,Al Pacino,Scent of a Woman,True
-1992,1993,Best actor - drama,Tom Cruise,"Few Good Men, A",False
+1992,1993,Best actor - drama,Tom Cruise,A Few Good Men,False
 1992,1993,Best actor - drama,Robert Downey Jr.,Chaplin,False
 1992,1993,Best actor - drama,Jack Nicholson,Hoffa,False
 1992,1993,Best actor - drama,Denzel Washington,Malcolm X,False
 1992,1993,Best actress - musical or comedy,Miranda Richardson,Enchanted April,True
-1992,1993,Best actress - musical or comedy,Geena Davis,"League of Their Own, A",False
+1992,1993,Best actress - musical or comedy,Geena Davis,A League of Their Own,False
 1992,1993,Best actress - musical or comedy,Whoopi Goldberg,Sister Act,False
 1992,1993,Best actress - musical or comedy,Shirley MacLaine,Used People,False
 1992,1993,Best actress - musical or comedy,Meryl Streep,Death Becomes Her,False
@@ -1771,17 +1771,17 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1992,1993,Best supporting actress - motion picture,Miranda Richardson,Damage,False
 1992,1993,Best supporting actress - motion picture,Alfre Woodard,Passion Fish,False
 1992,1993,Best supporting actor - motion picture,Gene Hackman,Unforgiven,True
-1992,1993,Best supporting actor - motion picture,Jack Nicholson,"Few Good Men, A",False
+1992,1993,Best supporting actor - motion picture,Jack Nicholson,A Few Good Men,False
 1992,1993,Best supporting actor - motion picture,Chris O'Donnell,Scent of a Woman,False
 1992,1993,Best supporting actor - motion picture,Al Pacino,Glengarry Glen Ross,False
 1992,1993,Best supporting actor - motion picture,David Paymer,Mr. Saturday Night,False
 1992,1993,Best director - motion picture,Clint Eastwood,Unforgiven,True
 1992,1993,Best director - motion picture,Robert Altman,The Player,False
 1992,1993,Best director - motion picture,James Ivory,Howards End,False
-1992,1993,Best director - motion picture,Robert Redford,"River Runs Through It, A",False
-1992,1993,Best director - motion picture,Rob Reiner,"Few Good Men, A",False
+1992,1993,Best director - motion picture,Robert Redford,A River Runs Through It,False
+1992,1993,Best director - motion picture,Rob Reiner,A Few Good Men,False
 1992,1993,Best screenplay - motion picture,Bo Goldman,Scent of a Woman,True
-1992,1993,Best screenplay - motion picture,Aaron Sorkin,"Few Good Men, A",False
+1992,1993,Best screenplay - motion picture,Aaron Sorkin,A Few Good Men,False
 1992,1993,Best screenplay - motion picture,Ruth Prawer Jhabvala,Howards End,False
 1992,1993,Best screenplay - motion picture,Michael Tolkin,The Player,False
 1992,1993,Best screenplay - motion picture,David Webb Peoples,Unforgiven,False
@@ -1799,12 +1799,12 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1992,1993,Best original song - motion picture,"Beautiful Maria of My Soul, Robert Kraft, Arne Glimcher",The Mambo Kings,False
 1992,1993,Best original song - motion picture,"Friend Like Me, Alan Menken, Tim Rice",Aladdin,False
 1992,1993,Best original song - motion picture,"Prince Ali, Alan Menken, Tim Rice",Aladdin,False
-1992,1993,Best original song - motion picture,"This Used To Be My Playground, Madonna, Shep Pettibone","League of Their Own, A",False
+1992,1993,Best original song - motion picture,"This Used To Be My Playground, Madonna, Shep Pettibone",A League of Their Own,False
 1993,1994,Best motion picture - drama,Schindler's List,Schindler's List,True
 1993,1994,Best motion picture - drama,In the Name of the Father,In the Name of the Father,False
 1993,1994,Best motion picture - drama,The Piano,The Piano,False
-1993,1994,Best motion picture - drama,"The  Remains of the Day, The",The  Remains of the Day,False
-1993,1994,Best motion picture - drama,"The Age of Innocence, The",The Age of Innocence,False
+1993,1994,Best motion picture - drama,The  Remains of the Day,The  Remains of the Day,False
+1993,1994,Best motion picture - drama,The Age of Innocence,The Age of Innocence,False
 1993,1994,Best motion picture - musical or comedy,Mrs. Doubtfire,Mrs. Doubtfire,True
 1993,1994,Best motion picture - musical or comedy,Dave,Dave,False
 1993,1994,Best motion picture - musical or comedy,Much Ado About Nothing,Much Ado About Nothing,False
@@ -1814,7 +1814,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1993,1994,Best actress - drama,Juliette Binoche,Three Colours: Blue (Trois couleurs: Bleu) ,False
 1993,1994,Best actress - drama,Michelle Pfeiffer,The Age of Innocence,False
 1993,1994,Best actress - drama,Emma Thompson,The  Remains of the Day,False
-1993,1994,Best actress - drama,Debra Winger,"Dangerous Woman, A",False
+1993,1994,Best actress - drama,Debra Winger,A Dangerous Woman,False
 1993,1994,Best actor - drama,Tom Hanks,Philadelphia,True
 1993,1994,Best actor - drama,Daniel Day-Lewis,In the Name of the Father,False
 1993,1994,Best actor - drama,Harrison Ford,The Fugitive,False
@@ -1871,7 +1871,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1994,1995,Best motion picture - drama,Pulp Fiction,Pulp Fiction,False
 1994,1995,Best motion picture - drama,Quiz Show,Quiz Show,False
 1994,1995,Best motion picture - musical or comedy,The Lion King,The Lion King,True
-1994,1995,Best motion picture - musical or comedy,"The Adventures of Priscilla, Queen of the Desert, The","The Adventures of Priscilla, Queen of the Desert",False
+1994,1995,Best motion picture - musical or comedy,"The Adventures of Priscilla, Queen of the Desert","The Adventures of Priscilla, Queen of the Desert",False
 1994,1995,Best motion picture - musical or comedy,Ed Wood,Ed Wood,False
 1994,1995,Best motion picture - musical or comedy,Four Weddings and a Funeral,Four Weddings and a Funeral,False
 1994,1995,Best motion picture - musical or comedy,Ready to Wear,Ready to Wear,False
@@ -1933,11 +1933,11 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1994,1995,Best original song - motion picture,"The Color of the Night, Lauren Christy, Jud J. Friedman, Dominic Frontiere",Color of Night,False
 1995,1996,Best motion picture - drama,Sense and Sensibility,Sense and Sensibility,True
 1995,1996,Best motion picture - drama,Braveheart,Braveheart,False
-1995,1996,Best motion picture - drama,"The Bridges of Madison County, The",The Bridges of Madison County,False
+1995,1996,Best motion picture - drama,The Bridges of Madison County,The Bridges of Madison County,False
 1995,1996,Best motion picture - drama,Leaving Las Vegas,Leaving Las Vegas,False
 1995,1996,Best motion picture - drama,Apollo 13,Apollo 13,False
 1995,1996,Best motion picture - musical or comedy,Babe,Babe,True
-1995,1996,Best motion picture - musical or comedy,"The American President, The",The American President,False
+1995,1996,Best motion picture - musical or comedy,The American President,The American President,False
 1995,1996,Best motion picture - musical or comedy,Get Shorty,Get Shorty,False
 1995,1996,Best motion picture - musical or comedy,Sabrina (1995),Sabrina (1995),False
 1995,1996,Best motion picture - musical or comedy,Toy Story,Toy Story,False
@@ -1955,7 +1955,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1995,1996,Best actress - musical or comedy,Annette Bening,The American President,False
 1995,1996,Best actress - musical or comedy,Sandra Bullock,While You Were Sleeping,False
 1995,1996,Best actress - musical or comedy,Toni Collette,Muriel's Wedding,False
-1995,1996,Best actress - musical or comedy,Vanessa Redgrave,"Month by the Lake, A",False
+1995,1996,Best actress - musical or comedy,Vanessa Redgrave,A Month by the Lake,False
 1995,1996,Best actor - musical or comedy,John Travolta,Get Shorty,True
 1995,1996,Best actor - musical or comedy,Patrick Swayze,"To Wong Foo, Thanks For Everything! Julie Newmar",False
 1995,1996,Best actor - musical or comedy,Michael Douglas,The American President,False
@@ -1999,12 +1999,12 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1995,1996,Best original song - motion picture,"""Moonlight"", John Williams, Alan Bergman, Marilyn Bergman",Sabrina (1995),False
 1995,1996,Best original song - motion picture,"You've Got a Friend In Me, Randy Newman",Toy Story,False
 1996,1997,Best motion picture - drama,The English Patient,The English Patient,True
-1996,1997,Best motion picture - drama,"The People vs. Larry Flynt, The",The People vs. Larry Flynt,False
+1996,1997,Best motion picture - drama,The People vs. Larry Flynt,The People vs. Larry Flynt,False
 1996,1997,Best motion picture - drama,Secrets & Lies,Secrets & Lies,False
 1996,1997,Best motion picture - drama,Shine,Shine,False
 1996,1997,Best motion picture - drama,Breaking the Waves,Breaking the Waves,False
 1996,1997,Best motion picture - musical or comedy,Evita,Evita,True
-1996,1997,Best motion picture - musical or comedy,"The Birdcage, The",The Birdcage,False
+1996,1997,Best motion picture - musical or comedy,The Birdcage,The Birdcage,False
 1996,1997,Best motion picture - musical or comedy,Everyone Says I Love You,Everyone Says I Love You,False
 1996,1997,Best motion picture - musical or comedy,Fargo,Fargo,False
 1996,1997,Best motion picture - musical or comedy,Jerry Maguire,Jerry Maguire,False
@@ -2036,7 +2036,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1996,1997,Best supporting actress - motion picture,Joan Allen,The Crucible,False
 1996,1997,Best supporting actor - motion picture,Edward Norton,Primal Fear,True
 1996,1997,Best supporting actor - motion picture,Cuba Gooding Jr.,Jerry Maguire,False
-1996,1997,Best supporting actor - motion picture,Samuel L. Jackson,"Time to Kill, A",False
+1996,1997,Best supporting actor - motion picture,Samuel L. Jackson,A Time to Kill,False
 1996,1997,Best supporting actor - motion picture,Paul Scofield,The Crucible,False
 1996,1997,Best supporting actor - motion picture,James Woods,Ghosts of Mississippi,False
 1996,1997,Best director - motion picture,Milos Forman,The People vs. Larry Flynt,True
@@ -2065,12 +2065,12 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1996,1997,Best original song - motion picture,"""For the First Time"", James Newton Howard, Jud J. Friedman, Allan Dennis Rich",One Fine Day,False
 1996,1997,Best original song - motion picture,"I've Finally Found Someone, Barbra Streisand, Bryan Adams, Marvin Hamlisch, Robert John Lange",The Mirror Has Two Faces,False
 1997,1998,Best motion picture - drama,Titanic,Titanic,True
-1997,1998,Best motion picture - drama,"The Boxer, The",The Boxer,False
+1997,1998,Best motion picture - drama,The Boxer,The Boxer,False
 1997,1998,Best motion picture - drama,Good Will Hunting,Good Will Hunting,False
 1997,1998,Best motion picture - drama,L.A. Confidential,L.A. Confidential,False
 1997,1998,Best motion picture - drama,Amistad,Amistad,False
 1997,1998,Best motion picture - musical or comedy,As Good as It Gets,As Good as It Gets,True
-1997,1998,Best motion picture - musical or comedy,"The Full Monty, The",The Full Monty,False
+1997,1998,Best motion picture - musical or comedy,The Full Monty,The Full Monty,False
 1997,1998,Best motion picture - musical or comedy,Men in Black,Men in Black,False
 1997,1998,Best motion picture - musical or comedy,My Best Friend's Wedding,My Best Friend's Wedding,False
 1997,1998,Best motion picture - musical or comedy,Wag the Dog,Wag the Dog,False
@@ -2132,12 +2132,12 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1997,1998,Best original song - motion picture,"""Tomorrow Never Dies"", Sheryl Crow, Mitchell Froom",Tomorrow Never Dies,False
 1998,1999,Best motion picture - drama,Saving Private Ryan,Saving Private Ryan,True
 1998,1999,Best motion picture - drama,Gods and Monsters,Gods and Monsters,False
-1998,1999,Best motion picture - drama,"The Horse Whisperer, The",The Horse Whisperer,False
+1998,1999,Best motion picture - drama,The Horse Whisperer,The Horse Whisperer,False
 1998,1999,Best motion picture - drama,The Truman Show,The Truman Show,False
 1998,1999,Best motion picture - drama,Elizabeth,Elizabeth,False
 1998,1999,Best motion picture - musical or comedy,Shakespeare in Love,Shakespeare in Love,True
 1998,1999,Best motion picture - musical or comedy,Bulworth,Bulworth,False
-1998,1999,Best motion picture - musical or comedy,"The Mask of Zorro, The",The Mask of Zorro,False
+1998,1999,Best motion picture - musical or comedy,The Mask of Zorro,The Mask of Zorro,False
 1998,1999,Best motion picture - musical or comedy,Patch Adams,Patch Adams,False
 1998,1999,Best motion picture - musical or comedy,Still Crazy,Still Crazy,False
 1998,1999,Best motion picture - musical or comedy,There's Something About Mary,There's Something About Mary,False
@@ -2167,11 +2167,11 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1998,1999,Best supporting actress - motion picture,Judi Dench,Shakespeare in Love,False
 1998,1999,Best supporting actress - motion picture,Sharon Stone,The Mighty,False
 1998,1999,Best supporting actor - motion picture,Ed Harris,The Truman Show,True
-1998,1999,Best supporting actor - motion picture,Robert Duvall,"Civil Action, A",False
+1998,1999,Best supporting actor - motion picture,Robert Duvall,A Civil Action,False
 1998,1999,Best supporting actor - motion picture,Bill Murray,Rushmore,False
 1998,1999,Best supporting actor - motion picture,Geoffrey Rush,Shakespeare in Love,False
 1998,1999,Best supporting actor - motion picture,Donald Sutherland,Without Limits,False
-1998,1999,Best supporting actor - motion picture,Billy Bob Thornton,"Simple Plan, a",False
+1998,1999,Best supporting actor - motion picture,Billy Bob Thornton,A Simple Plan,False
 1998,1999,Best director - motion picture,Steven Spielberg,Saving Private Ryan,True
 1998,1999,Best director - motion picture,Shekhar Kapur,Elizabeth,False
 1998,1999,Best director - motion picture,John Madden,Shakespeare in Love,False
@@ -2200,7 +2200,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1998,1999,Best original song - motion picture,"""The Flame Still Burns"", Mick Jones, Marti Frederiksen, Chris Difford",Still Crazy,False
 1999,2000,Best motion picture - drama,American Beauty,American Beauty,True
 1999,2000,Best motion picture - drama,The End of the Affair,The End of the Affair,False
-1999,2000,Best motion picture - drama,"The Hurricane, The",The Hurricane,False
+1999,2000,Best motion picture - drama,The Hurricane,The Hurricane,False
 1999,2000,Best motion picture - drama,The Insider,The Insider,False
 1999,2000,Best motion picture - drama,The Talented Mr. Ripley,The Talented Mr. Ripley,False
 1999,2000,Best motion picture - musical or comedy,Toy Story 2,Toy Story 2,True
@@ -2211,7 +2211,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1999,2000,Best actress - drama,Hilary Swank,Boys Don't Cry,True
 1999,2000,Best actress - drama,Julianne Moore,The End of the Affair,False
 1999,2000,Best actress - drama,Meryl Streep,Music of the Heart,False
-1999,2000,Best actress - drama,Sigourney Weaver,"Map of the World, A",False
+1999,2000,Best actress - drama,Sigourney Weaver,A Map of the World,False
 1999,2000,Best actress - drama,Annette Bening,American Beauty,False
 1999,2000,Best actor - drama,Denzel Washington,The Hurricane,True
 1999,2000,Best actor - drama,Russell Crowe,The Insider,False
@@ -2219,14 +2219,14 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 1999,2000,Best actor - drama,Richard Farnsworth,The Straight Story,False
 1999,2000,Best actor - drama,Kevin Spacey,American Beauty,False
 1999,2000,Best actress - musical or comedy,Janet McTeer,Tumbleweeds,True
-1999,2000,Best actress - musical or comedy,Julianne Moore,"Ideal Husband, An",False
+1999,2000,Best actress - musical or comedy,Julianne Moore,An Ideal Husband,False
 1999,2000,Best actress - musical or comedy,Julia Roberts,Notting Hill,False
 1999,2000,Best actress - musical or comedy,Sharon Stone,The Muse,False
 1999,2000,Best actress - musical or comedy,Reese Witherspoon,Election,False
 1999,2000,Best actor - musical or comedy,Jim Carrey,Man on the Moon,True
 1999,2000,Best actor - musical or comedy,Sean Penn,Sweet and Lowdown,False
 1999,2000,Best actor - musical or comedy,Robert De Niro,Analyze This,False
-1999,2000,Best actor - musical or comedy,Rupert Everett,"Ideal Husband, An",False
+1999,2000,Best actor - musical or comedy,Rupert Everett,An Ideal Husband,False
 1999,2000,Best actor - musical or comedy,Hugh Grant,Notting Hill,False
 1999,2000,Best supporting actress - motion picture,Angelina Jolie,"Girl, Interrupted",True
 1999,2000,Best supporting actress - motion picture,Cameron Diaz,Being John Malkovich,False
@@ -2339,7 +2339,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2001,2002,Best motion picture - drama,A Beautiful Mind,A Beautiful Mind,True
 2001,2002,Best motion picture - drama,In the Bedroom,In the Bedroom,False
 2001,2002,Best motion picture - drama,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,False
-2001,2002,Best motion picture - drama,"The Man Who Wasn't There, The",The Man Who Wasn't There,False
+2001,2002,Best motion picture - drama,The Man Who Wasn't There,The Man Who Wasn't There,False
 2001,2002,Best motion picture - drama,Mulholland Dr.,Mulholland Dr.,False
 2001,2002,Best motion picture - musical or comedy,Moulin Rouge!,Moulin Rouge!,True
 2001,2002,Best motion picture - musical or comedy,Bridget Jones's Diary,Bridget Jones's Diary,False
@@ -2347,7 +2347,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2001,2002,Best motion picture - musical or comedy,Legally Blonde,Legally Blonde,False
 2001,2002,Best motion picture - musical or comedy,Shrek,Shrek,False
 2001,2002,Best actress - drama,Sissy Spacek,In the Bedroom,True
-2001,2002,Best actress - drama,"The Deep End, The",The Deep End,False
+2001,2002,Best actress - drama,The Deep End,The Deep End,False
 2001,2002,Best actress - drama,Halle Berry,Monster's Ball,False
 2001,2002,Best actress - drama,Judi Dench,Iris,False
 2001,2002,Best actress - drama,Nicole Kidman,The Others,False
@@ -2410,8 +2410,8 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2002,2003,Best motion picture - drama,The Hours,The Hours,True
 2002,2003,Best motion picture - drama,About Schmidt,About Schmidt,False
 2002,2003,Best motion picture - drama,Gangs of New York,Gangs of New York,False
-2002,2003,Best motion picture - drama,"The Lord of the Rings: The Two Towers, The",The Lord of the Rings: The Two Towers,False
-2002,2003,Best motion picture - drama,"The Pianist, The",The Pianist,False
+2002,2003,Best motion picture - drama,The Lord of the Rings: The Two Towers,The Lord of the Rings: The Two Towers,False
+2002,2003,Best motion picture - drama,The Pianist,The Pianist,False
 2002,2003,Best motion picture - musical or comedy,Chicago,Chicago,True
 2002,2003,Best motion picture - musical or comedy,About a Boy,About a Boy,False
 2002,2003,Best motion picture - musical or comedy,Adaptation,Adaptation,False
@@ -2549,11 +2549,11 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2004,2005,Best motion picture - drama,Million Dollar Baby,Million Dollar Baby,False
 2004,2005,Best motion picture - musical or comedy,Sideways,Sideways,True
 2004,2005,Best motion picture - musical or comedy,Eternal Sunshine of The Spotless Mind,Eternal Sunshine of The Spotless Mind,False
-2004,2005,Best motion picture - musical or comedy,"The Incredibles, The",The Incredibles,False
+2004,2005,Best motion picture - musical or comedy,The Incredibles,The Incredibles,False
 2004,2005,Best motion picture - musical or comedy,Ray,Ray,False
 2004,2005,Best motion picture - musical or comedy,The Phantom of the Opera,The Phantom of the Opera,False
 2004,2005,Best actress - drama,Hilary Swank,Million Dollar Baby,True
-2004,2005,Best actress - drama,Scarlett Johansson,"Love Song For Bobby Long, A",False
+2004,2005,Best actress - drama,Scarlett Johansson,A Love Song For Bobby Long,False
 2004,2005,Best actress - drama,Nicole Kidman,Birth,False
 2004,2005,Best actress - drama,Imelda Staunton,Vera Drake,False
 2004,2005,Best actress - drama,Uma Thurman,Kill Bill (Vol. 2),False
@@ -2576,7 +2576,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2004,2005,Best supporting actress - motion picture,Cate Blanchett,The Aviator,False
 2004,2005,Best supporting actress - motion picture,Laura Linney,Kinsey,False
 2004,2005,Best supporting actress - motion picture,Virginia Madsen,Sideways,False
-2004,2005,Best supporting actress - motion picture,Meryl Streep,Manchurian Candidate (2004),False
+2004,2005,Best supporting actress - motion picture,Meryl Streep,"Manchurian Candidate (2004), The",False
 2004,2005,Best supporting actor - motion picture,Clive Owen,Closer,True
 2004,2005,Best supporting actor - motion picture,Thomas Haden Church,Sideways,False
 2004,2005,Best supporting actor - motion picture,Jamie Foxx,Collateral,False
@@ -2609,14 +2609,14 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2004,2005,Best original song - motion picture,"""Accidentally In Love"", Adam Duritz, Dan Vickery, David Immerglück, Matthew Malley, David Bryson",Shrek 2,False
 2005,2006,Best motion picture - drama,Brokeback Mountain,Brokeback Mountain,True
 2005,2006,Best motion picture - drama,Match Point,Match Point,False
-2005,2006,Best motion picture - drama,"The Constant Gardener, The",The Constant Gardener,False
+2005,2006,Best motion picture - drama,The Constant Gardener,The Constant Gardener,False
 2005,2006,Best motion picture - drama,"Good Night, and Good Luck","Good Night, and Good Luck",False
 2005,2006,Best motion picture - drama,A History of Violence,A History of Violence,False
 2005,2006,Best motion picture - musical or comedy,Walk The Line,Walk The Line,True
 2005,2006,Best motion picture - musical or comedy,Mrs. Henderson Presents,Mrs. Henderson Presents,False
 2005,2006,Best motion picture - musical or comedy,Pride & Prejudice,Pride & Prejudice,False
 2005,2006,Best motion picture - musical or comedy,The Producers,The Producers,False
-2005,2006,Best motion picture - musical or comedy,"The Squid and the Whale, The",The Squid and the Whale,False
+2005,2006,Best motion picture - musical or comedy,The Squid and the Whale,The Squid and the Whale,False
 2005,2006,Best actress - drama,Felicity Huffman,Transamerica,True
 2005,2006,Best actress - drama,Maria Bello,A History of Violence,False
 2005,2006,Best actress - drama,Gwyneth Paltrow,Proof,False
@@ -2665,22 +2665,22 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2005,2006,Best motion picture - foreign language,The Promise (Master of the Crimson Armor),"China, Chen Kaige",False
 2005,2006,Best motion picture - foreign language,Joyeux Noel (Merry Christmas),"France, Christian Carion",False
 2005,2006,Best original score - motion picture,John Williams,Memoirs of a Geisha,True
-2005,2006,Best original score - motion picture,Harry Gregson-Williams,The The Chronicles Of Narnia: The Lion Witch And The Wardrobe,False
+2005,2006,Best original score - motion picture,Harry Gregson-Williams,"The Chronicles Of Narnia: The Lion, The Witch And The Wardrobe",False
 2005,2006,Best original score - motion picture,James Newton Howard,King Kong (2005),False
 2005,2006,Best original score - motion picture,Alexandre Desplat,Syriana,False
 2005,2006,Best original score - motion picture,Gustavo Santaolalla,Brokeback Mountain,False
 2005,2006,Best original song - motion picture,"""A Love That Will Never Grow Old"", Gustavo Santaolalla, Bernie Taupin",Brokeback Mountain,True
 2005,2006,Best original song - motion picture,"Travelin' Thru, Dolly Parton",Transamerica,False
-2005,2006,Best original song - motion picture,"""Wunderkind"", Alanis Morissette",The The Chronicles Of Narnia: The Lion Witch And The Wardrobe,False
+2005,2006,Best original song - motion picture,"""Wunderkind"", Alanis Morissette","The Chronicles Of Narnia: The Lion, The Witch And The Wardrobe",False
 2005,2006,Best original song - motion picture,"""Christmas in Love"", Tony Renis, Marva Jan Marrow",Christmas In Love,False
 2005,2006,Best original song - motion picture,"""There's Nothing Like a Show on Broadway"", Mel Brooks",The Producers,False
 2006,2007,Best motion picture - drama,Babel,Babel,True
 2006,2007,Best motion picture - drama,Bobby,Bobby,False
-2006,2007,Best motion picture - drama,"The Departed, The",The Departed,False
+2006,2007,Best motion picture - drama,The Departed,The Departed,False
 2006,2007,Best motion picture - drama,Little Children,Little Children,False
-2006,2007,Best motion picture - drama,"The Queen, The",The Queen,False
+2006,2007,Best motion picture - drama,The Queen,The Queen,False
 2006,2007,Best motion picture - musical or comedy,Dreamgirls,Dreamgirls,True
-2006,2007,Best motion picture - musical or comedy,"The Devil Wears Prada, The",The Devil Wears Prada,False
+2006,2007,Best motion picture - musical or comedy,The Devil Wears Prada,The Devil Wears Prada,False
 2006,2007,Best motion picture - musical or comedy,Little Miss Sunshine,Little Miss Sunshine,False
 2006,2007,Best motion picture - musical or comedy,Thank You For Smoking,Thank You For Smoking,False
 2006,2007,Best motion picture - musical or comedy,Borat: Cultural Learnings Of America For Make Benefit Glorious Nation Of Kazakhstan,Borat: Cultural Learnings Of America For Make Benefit Glorious Nation Of Kazakhstan,False
@@ -2748,7 +2748,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2007,2008,Best motion picture - drama,There Will Be Blood,There Will Be Blood,False
 2007,2008,Best motion picture - drama,American Gangster,American Gangster,False
 2007,2008,Best motion picture - drama,Eastern Promises,Eastern Promises,False
-2007,2008,Best motion picture - drama,"The Great Debaters, The",The Great Debaters,False
+2007,2008,Best motion picture - drama,The Great Debaters,The Great Debaters,False
 2007,2008,Best motion picture - musical or comedy,Sweeney Todd: The Demon Barber of Fleet Street,Sweeney Todd: The Demon Barber of Fleet Street,True
 2007,2008,Best motion picture - musical or comedy,Across The Universe,Across The Universe,False
 2007,2008,Best motion picture - musical or comedy,Charlie Wilson's War,Charlie Wilson's War,False
@@ -2757,7 +2757,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2007,2008,Best actress - drama,Julie Christie,Away From Her,True
 2007,2008,Best actress - drama,Cate Blanchett,Elizabeth:  The Golden Age,False
 2007,2008,Best actress - drama,Jodie Foster,The Brave One,False
-2007,2008,Best actress - drama,Angelina Jolie,"Mighty Heart, A",False
+2007,2008,Best actress - drama,Angelina Jolie,A Mighty Heart,False
 2007,2008,Best actress - drama,Keira Knightley,Atonement,False
 2007,2008,Best actor - drama,Daniel Day-Lewis,There Will Be Blood,True
 2007,2008,Best actor - drama,Denzel Washington,American Gangster,False
@@ -2796,7 +2796,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2007,2008,Best screenplay - motion picture,Aaron Sorkin,Charlie Wilson's War,False
 2007,2008,Best motion picture - animated,Ratatouille,Ratatouille,True
 2007,2008,Best motion picture - animated,Bee Movie,Bee Movie,False
-2007,2008,Best motion picture - animated,"The Simpsons Movie, The",The Simpsons Movie,False
+2007,2008,Best motion picture - animated,The Simpsons Movie,The Simpsons Movie,False
 2007,2008,Best motion picture - foreign language,The Diving Bell and the Butterfly,"France, United States, Julian Schnabel",True
 2007,2008,Best motion picture - foreign language,The Kite Runner,"United States, Marc Forster",False
 2007,2008,Best motion picture - foreign language,"Lust, Caution","Taiwan, Ang Lee",False
@@ -2815,7 +2815,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2008,2009,Best motion picture - drama,Slumdog Millionaire,Slumdog Millionaire,True
 2008,2009,Best motion picture - drama,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button,False
 2008,2009,Best motion picture - drama,Frost/Nixon,Frost/Nixon,False
-2008,2009,Best motion picture - drama,"The Reader, The",The Reader,False
+2008,2009,Best motion picture - drama,The Reader,The Reader,False
 2008,2009,Best motion picture - drama,Revolutionary Road,Revolutionary Road,False
 2008,2009,Best motion picture - musical or comedy,Vicky Cristina Barcelona,Vicky Cristina Barcelona,True
 2008,2009,Best motion picture - musical or comedy,Burn After Reading,Burn After Reading,False
@@ -2881,11 +2881,11 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2008,2009,Best original song - motion picture,"""Once In A Lifetime"", Beyoncé, Scott McFarnon, Ian Dench, James Dring, Jody Street, Amanda Ghost",Cadillac Records,False
 2008,2009,Best original song - motion picture,"""Down To Earth"", Peter Gabriel, Thomas Newman",Wall-E,False
 2009,2010,Best motion picture - drama,Avatar,Avatar,True
-2009,2010,Best motion picture - drama,"The Hurt Locker, The",The Hurt Locker,False
+2009,2010,Best motion picture - drama,The Hurt Locker,The Hurt Locker,False
 2009,2010,Best motion picture - drama,Inglourious Basterds,Inglourious Basterds,False
 2009,2010,Best motion picture - drama,Precious: Based On The Novel Push By Sapphire,Precious: Based On The Novel Push By Sapphire,False
 2009,2010,Best motion picture - drama,Up In The Air,Up In The Air,False
-2009,2010,Best motion picture - musical or comedy,"The Hangover, The",The Hangover,True
+2009,2010,Best motion picture - musical or comedy,The Hangover,The Hangover,True
 2009,2010,Best motion picture - musical or comedy,(500) Days of Summer,(500) Days of Summer,False
 2009,2010,Best motion picture - musical or comedy,It's Complicated,It's Complicated,False
 2009,2010,Best motion picture - musical or comedy,Julie & Julia,Julie & Julia,False
@@ -2893,7 +2893,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2009,2010,Best actress - drama,Sandra Bullock,The Blind Side,True
 2009,2010,Best actress - drama,Emily Blunt,The Young Victoria,False
 2009,2010,Best actress - drama,Helen Mirren,The Last Station,False
-2009,2010,Best actress - drama,Carey Mulligan,"Education, An",False
+2009,2010,Best actress - drama,Carey Mulligan,An Education,False
 2009,2010,Best actress - drama,Gabourey Sidibe,Precious: Based On The Novel Push By Sapphire,False
 2009,2010,Best actor - drama,Jeff Bridges,Crazy Heart,True
 2009,2010,Best actor - drama,George Clooney,Up In The Air,False
@@ -2909,7 +2909,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2009,2010,Best actor - musical or comedy,Matt Damon,The Informant!,False
 2009,2010,Best actor - musical or comedy,Daniel Day-Lewis,Nine,False
 2009,2010,Best actor - musical or comedy,Joseph Gordon-Levitt,(500) Days of Summer,False
-2009,2010,Best actor - musical or comedy,Michael Stuhlbarg,"Serious Man, A",False
+2009,2010,Best actor - musical or comedy,Michael Stuhlbarg,A Serious Man,False
 2009,2010,Best supporting actress - motion picture,Mo'Nique,Precious: Based On The Novel Push By Sapphire,True
 2009,2010,Best supporting actress - motion picture,Vera Farmiga,Up In The Air,False
 2009,2010,Best supporting actress - motion picture,Anna Kendrick,Up In The Air,False
@@ -2933,7 +2933,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2009,2010,Best motion picture - animated,Up,Up,True
 2009,2010,Best motion picture - animated,Coraline,Coraline,False
 2009,2010,Best motion picture - animated,Fantastic Mr. Fox,Fantastic Mr. Fox,False
-2009,2010,Best motion picture - animated,"The Princess And The Frog, The",The Princess And The Frog,False
+2009,2010,Best motion picture - animated,The Princess And The Frog,The Princess And The Frog,False
 2009,2010,Best motion picture - animated,Cloudy With A Chance Of Meatballs,Cloudy With A Chance Of Meatballs,False
 2009,2010,Best motion picture - foreign language,The White Ribbon (Das Weisse Band - Eine Deutsche Kindergeschichte),"Germany, Michael Haneke",True
 2009,2010,Best motion picture - foreign language,Baarìa,"Italy, Giuseppe Tornatore",False
@@ -2952,14 +2952,14 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2009,2010,Best original song - motion picture,"I See You, James Horner, Simon Franglen, Kuk Harrell",Avatar,False
 2010,2011,Best motion picture - drama,The Social Network,The Social Network,True
 2010,2011,Best motion picture - drama,Black Swan,Black Swan,False
-2010,2011,Best motion picture - drama,"The Fighter, The",The Fighter,False
+2010,2011,Best motion picture - drama,The Fighter,The Fighter,False
 2010,2011,Best motion picture - drama,Inception,Inception,False
 2010,2011,Best motion picture - drama,The King's Speech,The King's Speech,False
-2010,2011,Best motion picture - musical or comedy,"The Kids Are All Right, The",The Kids Are All Right,True
+2010,2011,Best motion picture - musical or comedy,The Kids Are All Right,The Kids Are All Right,True
 2010,2011,Best motion picture - musical or comedy,Alice in Wonderland,Alice in Wonderland,False
 2010,2011,Best motion picture - musical or comedy,Burlesque,Burlesque,False
 2010,2011,Best motion picture - musical or comedy,Red,Red,False
-2010,2011,Best motion picture - musical or comedy,"The Tourist, The",The Tourist,False
+2010,2011,Best motion picture - musical or comedy,The Tourist,The Tourist,False
 2010,2011,Best actress - drama,Natalie Portman,Black Swan,True
 2010,2011,Best actress - drama,Halle Berry,Frankie and Alice,False
 2010,2011,Best actress - drama,Nicole Kidman,Rabbit Hole,False
@@ -3002,7 +3002,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2010,2011,Best screenplay - motion picture,David Seidler,The King's Speech,False
 2010,2011,Best motion picture - animated,Toy Story 3,Toy Story 3,True
 2010,2011,Best motion picture - animated,How To Train Your Dragon,How To Train Your Dragon,False
-2010,2011,Best motion picture - animated,"The Illusionist, The",The Illusionist,False
+2010,2011,Best motion picture - animated,The Illusionist,The Illusionist,False
 2010,2011,Best motion picture - animated,Tangled,Tangled,False
 2010,2011,Best motion picture - animated,Despicable Me,Despicable Me,False
 2010,2011,Best motion picture - foreign language,In A Better World,"Denmark, Susanne Bier",True
@@ -3020,12 +3020,12 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2010,2011,Best original song - motion picture,"I See The Light, Alan Menken, Glenn Slater",Tangled,False
 2010,2011,Best original song - motion picture,"""There's A Place For Us"", Carrie Underwood, David Hodges, Hillary Lindsey",The Chronicles of Narnia: The Voyage of The Dawn Treader,False
 2010,2011,Best original song - motion picture,"""Bound To You"", Sia, Christina Aguilera, Samuel Dixon",Burlesque,False
-2011,2012,Best motion picture - drama,"The Descendants, The",The Descendants,True
+2011,2012,Best motion picture - drama,The Descendants,The Descendants,True
 2011,2012,Best motion picture - drama,Moneyball,Moneyball,False
 2011,2012,Best motion picture - drama,War Horse,War Horse,False
 2011,2012,Best motion picture - drama,The Help,The Help,False
 2011,2012,Best motion picture - drama,Hugo,Hugo,False
-2011,2012,Best motion picture - drama,"The Ides of March, The",The Ides of March,False
+2011,2012,Best motion picture - drama,The Ides of March,The Ides of March,False
 2011,2012,Best motion picture - musical or comedy,The Artist,The Artist,True
 2011,2012,Best motion picture - musical or comedy,50/50,50/50,False
 2011,2012,Best motion picture - musical or comedy,Bridesmaids,Bridesmaids,False
@@ -3059,7 +3059,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2011,2012,Best supporting actor - motion picture,Christopher Plummer,Beginners,True
 2011,2012,Best supporting actor - motion picture,Albert Brooks,Drive,False
 2011,2012,Best supporting actor - motion picture,Jonah Hill,Moneyball,False
-2011,2012,Best supporting actor - motion picture,Viggo Mortensen,"Dangerous Method, A",False
+2011,2012,Best supporting actor - motion picture,Viggo Mortensen,A Dangerous Method,False
 2011,2012,Best supporting actor - motion picture,Kenneth Branagh,My Week With Marilyn,False
 2011,2012,Best director - motion picture,Martin Scorsese,Hugo,True
 2011,2012,Best director - motion picture,Alexander Payne,The Descendants,False
@@ -3071,7 +3071,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2011,2012,Best screenplay - motion picture,Michel Hazanavicius,The Artist,False
 2011,2012,Best screenplay - motion picture,"Aaron Sorkin, Steve Zaillian, Stan Chervin",Moneyball,False
 2011,2012,Best screenplay - motion picture,"Nat Faxon, Jim Rash, Alexander Payne",The Descendants,False
-2011,2012,Best motion picture - animated,"The Adventures of Tintin, The",The Adventures of Tintin,True
+2011,2012,Best motion picture - animated,The Adventures of Tintin,The Adventures of Tintin,True
 2011,2012,Best motion picture - animated,Rango,Rango,False
 2011,2012,Best motion picture - animated,Arthur Christmas,Arthur Christmas,False
 2011,2012,Best motion picture - animated,Cars 2,Cars 2,False
@@ -3097,7 +3097,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2012,2013,Best motion picture - drama,Zero Dark Thirty 	,Zero Dark Thirty 	,False
 2012,2013,Best motion picture - drama,Django Unchained,Django Unchained,False
 2012,2013,Best motion picture - musical or comedy,Les Misérables,Les Misérables,True
-2012,2013,Best motion picture - musical or comedy,"The Best Exotic Marigold Hotel, The",The Best Exotic Marigold Hotel,False
+2012,2013,Best motion picture - musical or comedy,The Best Exotic Marigold Hotel,The Best Exotic Marigold Hotel,False
 2012,2013,Best motion picture - musical or comedy,Moonrise Kingdom,Moonrise Kingdom,False
 2012,2013,Best motion picture - musical or comedy,Salmon Fishing in the Yemen,Salmon Fishing in the Yemen,False
 2012,2013,Best motion picture - musical or comedy,Silver Linings Playbook,Silver Linings Playbook,False
@@ -3170,7 +3170,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2013,2014,Best motion picture - musical or comedy,Nebraska,Nebraska,False
 2013,2014,Best motion picture - musical or comedy,Inside Llewyn Davis,Inside Llewyn Davis,False
 2013,2014,Best motion picture - musical or comedy,Her,Her,False
-2013,2014,Best motion picture - musical or comedy,"The Wolf of Wall Street, The",The Wolf of Wall Street,False
+2013,2014,Best motion picture - musical or comedy,The Wolf of Wall Street,The Wolf of Wall Street,False
 2013,2014,Best actress - drama,Cate Blanchett,Blue Jasmine,True
 2013,2014,Best actress - drama,Sandra Bullock,Gravity,False
 2013,2014,Best actress - drama,Judi Dench,Philomena,False
@@ -3213,7 +3213,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2013,2014,Best screenplay - motion picture,Bob Nelson,Nebraska,False
 2013,2014,Best motion picture - animated,Frozen,Frozen,True
 2013,2014,Best motion picture - animated,Despicable Me 2,Despicable Me 2,False
-2013,2014,Best motion picture - animated,"The Croods, The",The Croods,False
+2013,2014,Best motion picture - animated,The Croods,The Croods,False
 2013,2014,Best motion picture - foreign language,The Great Beauty,"Italy, Paolo Sorrentino",True
 2013,2014,Best motion picture - foreign language,Blue is the Warmest Color,"France, Abdellatif Kechiche",False
 2013,2014,Best motion picture - foreign language,The Hunt,"Denmark, Thomas Vinterberg",False
@@ -3234,7 +3234,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2014,2015,Best motion picture - drama,Selma,Selma,False
 2014,2015,Best motion picture - drama,Foxcatcher,Foxcatcher,False
 2014,2015,Best motion picture - drama,The Theory of Everything,The Theory of Everything,False
-2014,2015,Best motion picture - musical or comedy,"The Grand Budapest Hotel, The",The Grand Budapest Hotel,True
+2014,2015,Best motion picture - musical or comedy,The Grand Budapest Hotel,The Grand Budapest Hotel,True
 2014,2015,Best motion picture - musical or comedy,Into the Woods,Into the Woods,False
 2014,2015,Best motion picture - musical or comedy,St. Vincent,St. Vincent,False
 2014,2015,Best motion picture - musical or comedy,Pride,Pride,False
@@ -3281,9 +3281,9 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2014,2015,Best screenplay - motion picture,Richard Linklater,Boyhood,False
 2014,2015,Best motion picture - animated,How to Train Your Dragon 2,How to Train Your Dragon 2,True
 2014,2015,Best motion picture - animated,Big Hero 6,Big Hero 6,False
-2014,2015,Best motion picture - animated,"The Book of Life, The",The Book of Life,False
-2014,2015,Best motion picture - animated,"The Boxtrolls, The",The Boxtrolls,False
-2014,2015,Best motion picture - animated,"The LEGO Movie, The",The LEGO Movie,False
+2014,2015,Best motion picture - animated,The Book of Life,The Book of Life,False
+2014,2015,Best motion picture - animated,The Boxtrolls,The Boxtrolls,False
+2014,2015,Best motion picture - animated,The LEGO Movie,The LEGO Movie,False
 2014,2015,Best motion picture - foreign language,Leviathan,"Russia, Andrey Zvyagintsev ",True
 2014,2015,Best motion picture - foreign language,Gett: The Trial of Viviane Amsalem,"Israel, Ronit Elkabetz, Shlomi Elkabetz",False
 2014,2015,Best motion picture - foreign language,Ida,"Poland, Denmark, Pawel Pawlikowski",False
@@ -3306,7 +3306,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2015,2016,Best motion picture - drama,Spotlight,Spotlight,False
 2015,2016,Best motion picture - musical or comedy,The Martian,The Martian,True
 2015,2016,Best motion picture - musical or comedy,Spy,Spy,False
-2015,2016,Best motion picture - musical or comedy,"The Big Short, The",The Big Short,False
+2015,2016,Best motion picture - musical or comedy,The Big Short,The Big Short,False
 2015,2016,Best motion picture - musical or comedy,Trainwreck,Trainwreck,False
 2015,2016,Best motion picture - musical or comedy,Joy,Joy,False
 2015,2016,Best actress - drama,Brie Larson,Room,True
@@ -3445,7 +3445,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2017,2018,Best motion picture - drama,The Post,The Post,False
 2017,2018,Best motion picture - drama,The Shape of Water,The Shape of Water,False
 2017,2018,Best motion picture - musical or comedy,Lady Bird,Lady Bird,True
-2017,2018,Best motion picture - musical or comedy,"The Disaster Artist, The ",The Disaster Artist ,False
+2017,2018,Best motion picture - musical or comedy,"Disaster Artist, The ","Disaster Artist, The ",False
 2017,2018,Best motion picture - musical or comedy,Get Out,Get Out,False
 2017,2018,Best motion picture - musical or comedy,The Greatest Showman,The Greatest Showman,False
 2017,2018,Best motion picture - musical or comedy,"I, Tonya","I, Tonya",False
@@ -3461,10 +3461,10 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2017,2018,Best actor - drama,Denzel Washington,"Roman J. Israel, Esq.",False
 2017,2018,Best actress - musical or comedy,Saoirse Ronan,Lady Bird,True
 2017,2018,Best actress - musical or comedy,Judi Dench,Victoria & Abdul,False
-2017,2018,Best actress - musical or comedy,Helen Mirren,The Leisure Seeker ,False
+2017,2018,Best actress - musical or comedy,Helen Mirren,"Leisure Seeker, The ",False
 2017,2018,Best actress - musical or comedy,Margot Robbie,"I, Tonya",False
 2017,2018,Best actress - musical or comedy,Emma Stone,Battle of the Sexes,False
-2017,2018,Best actor - musical or comedy,James Franco,The Disaster Artist ,True
+2017,2018,Best actor - musical or comedy,James Franco,"Disaster Artist, The ",True
 2017,2018,Best actor - musical or comedy,Hugh Jackman,The Greatest Showman,False
 2017,2018,Best actor - musical or comedy,Daniel Kaluuya,Get Out,False
 2017,2018,Best actor - musical or comedy,Steve Carell,Battle of the Sexes,False
@@ -3475,7 +3475,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2017,2018,Best supporting actress - motion picture,Laurie Metcalf,Lady Bird,False
 2017,2018,Best supporting actress - motion picture,Octavia Spencer,The Shape of Water,False
 2017,2018,Best supporting actor - motion picture,Sam Rockwell,"Three Billboards Outside Ebbing, Missouri",True
-2017,2018,Best supporting actor - motion picture,Willem Dafoe,The Florida Project ,False
+2017,2018,Best supporting actor - motion picture,Willem Dafoe,"Florida Project, The ",False
 2017,2018,Best supporting actor - motion picture,Armie Hammer,Call Me By Your Name,False
 2017,2018,Best supporting actor - motion picture,Richard Jenkins,The Shape of Water,False
 2017,2018,Best supporting actor - motion picture,Christopher Plummer,All The Money In The World,False
@@ -3491,8 +3491,8 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2017,2018,Best screenplay - motion picture,Aaron Sorkin,Molly's Game,False
 2017,2018,Best motion picture - animated,Coco,Coco,True
 2017,2018,Best motion picture - animated,Loving Vincent,Loving Vincent,False
-2017,2018,Best motion picture - animated,"The Boss Baby, The ",The Boss Baby ,False
-2017,2018,Best motion picture - animated,"The Breadwinner, The ",The Breadwinner ,False
+2017,2018,Best motion picture - animated,"Boss Baby, The ","Boss Baby, The ",False
+2017,2018,Best motion picture - animated,"Breadwinner, The ","Breadwinner, The ",False
 2017,2018,Best motion picture - animated,Ferdinand,Ferdinand,False
 2017,2018,Best motion picture - foreign language,In The Fade,"Germany, Fatih Akin",True
 2017,2018,Best motion picture - foreign language,A Fantastic Woman,"Chile, Sebastián Lelio",False
@@ -3512,20 +3512,20 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2018,2019,Best motion picture - drama,Bohemian Rhapsody,Bohemian Rhapsody,True
 2018,2019,Best motion picture - drama,BlacKkKlansman,BlacKkKlansman,False
 2018,2019,Best motion picture - drama,If Beale Street Could Talk,If Beale Street Could Talk,False
-2018,2019,Best motion picture - drama,"Star Is Born, A (2018)","Star Is Born, A (2018)",False
+2018,2019,Best motion picture - drama,A Star Is Born,A Star Is Born,False
 2018,2019,Best motion picture - drama,Black Panther,Black Panther,False
 2018,2019,Best motion picture - musical or comedy,Green Book,Green Book,True
 2018,2019,Best motion picture - musical or comedy,Crazy Rich Asians,Crazy Rich Asians,False
-2018,2019,Best motion picture - musical or comedy,"The Favourite, The",The Favourite,False
+2018,2019,Best motion picture - musical or comedy,The Favourite,The Favourite,False
 2018,2019,Best motion picture - musical or comedy,Mary Poppins Returns,Mary Poppins Returns,False
 2018,2019,Best motion picture - musical or comedy,Vice,Vice,False
 2018,2019,Best actress - drama,Glenn Close,The Wife,True
-2018,2019,Best actress - drama,Lady Gaga,"Star Is Born, A (2018)",False
+2018,2019,Best actress - drama,Lady Gaga,A Star Is Born,False
 2018,2019,Best actress - drama,Nicole Kidman,Destroyer,False
 2018,2019,Best actress - drama,Melissa McCarthy,Can You Ever Forgive Me?,False
-2018,2019,Best actress - drama,Rosamund Pike,"Private War, A",False
+2018,2019,Best actress - drama,Rosamund Pike,A Private War,False
 2018,2019,Best actor - drama,Rami Malek,Bohemian Rhapsody,True
-2018,2019,Best actor - drama,Bradley Cooper,"Star Is Born, A (2018)",False
+2018,2019,Best actor - drama,Bradley Cooper,A Star Is Born,False
 2018,2019,Best actor - drama,Willem Dafoe,At Eternity's Gate,False
 2018,2019,Best actor - drama,Lucas Hedges,Boy Erased,False
 2018,2019,Best actor - drama,John David Washington,BlacKkKlansman,False
@@ -3550,7 +3550,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2018,2019,Best supporting actor - motion picture,Richard E. Grant,Can You Ever Forgive Me?,False
 2018,2019,Best supporting actor - motion picture,Sam Rockwell,Vice,False
 2018,2019,Best director - motion picture,Alfonso Cuarón,Roma,True
-2018,2019,Best director - motion picture,Bradley Cooper,"Star Is Born, A (2018)",False
+2018,2019,Best director - motion picture,Bradley Cooper,A Star Is Born,False
 2018,2019,Best director - motion picture,Peter Farrelly,Green Book,False
 2018,2019,Best director - motion picture,Spike Lee,BlacKkKlansman,False
 2018,2019,Best director - motion picture,Adam McKay,Vice,False
@@ -3570,20 +3570,20 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2018,2019,Best motion picture - foreign language,Shoplifters,"Japan, Hirokazu Koreeda",False
 2018,2019,Best motion picture - foreign language,Capernaum,"Lebanon, Nadine Labaki",False
 2018,2019,Best original score - motion picture,Justin Hurwitz,First Man,True
-2018,2019,Best original score - motion picture,Marco Beltrami,"Quiet Place, A",False
+2018,2019,Best original score - motion picture,Marco Beltrami,A Quiet Place,False
 2018,2019,Best original score - motion picture,Alexandre Desplat,Isle of Dogs,False
 2018,2019,Best original score - motion picture,Ludwig Göransson,Black Panther,False
 2018,2019,Best original score - motion picture,Marc Shaiman,Mary Poppins Returns,False
-2018,2019,Best original song - motion picture,"Shallow, Lady Gaga, Mark Ronson, Anthony Rossomando, Andrew Wyatt","Star Is Born, A (2018)",True
+2018,2019,Best original song - motion picture,"Shallow, Lady Gaga, Mark Ronson, Anthony Rossomando, Andrew Wyatt",A Star Is Born,True
 2018,2019,Best original song - motion picture,All The Stars,Black Panther,False
 2018,2019,Best original song - motion picture,"Girl in the Movies, Dolly Parton, Linda Perry",Dumplin',False
-2018,2019,Best original song - motion picture,"Requiem For A Private War, Annie Lennox","Private War, A",False
+2018,2019,Best original song - motion picture,"Requiem For A Private War, Annie Lennox",A Private War,False
 2018,2019,Best original song - motion picture,Revelation,Boy Erased,False
 2019,2020,Best motion picture - drama,1917,1917,True
-2019,2020,Best motion picture - drama,"The Irishman, The",The Irishman,False
+2019,2020,Best motion picture - drama,The Irishman,The Irishman,False
 2019,2020,Best motion picture - drama,Joker,Joker,False
 2019,2020,Best motion picture - drama,Marriage Story,Marriage Story,False
-2019,2020,Best motion picture - drama,"The Two Popes, The",The Two Popes,False
+2019,2020,Best motion picture - drama,The Two Popes,The Two Popes,False
 2019,2020,Best motion picture - musical or comedy,Once Upon a Time...in Hollywood,Once Upon a Time...in Hollywood,True
 2019,2020,Best motion picture - musical or comedy,Dolemite Is My Name,Dolemite Is My Name,False
 2019,2020,Best motion picture - musical or comedy,Jojo Rabbit,Jojo Rabbit,False
@@ -3615,7 +3615,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2019,2020,Best supporting actress - motion picture,Margot Robbie,Bombshell,False
 2019,2020,Best supporting actress - motion picture,Kathy Bates,Richard Jewell,False
 2019,2020,Best supporting actor - motion picture,Brad Pitt,Once Upon a Time...in Hollywood,True
-2019,2020,Best supporting actor - motion picture,Tom Hanks,"Beautiful Day in the Neighborhood, A",False
+2019,2020,Best supporting actor - motion picture,Tom Hanks,A Beautiful Day in the Neighborhood,False
 2019,2020,Best supporting actor - motion picture,Anthony Hopkins,The Two Popes,False
 2019,2020,Best supporting actor - motion picture,Al Pacino,The Irishman,False
 2019,2020,Best supporting actor - motion picture,Joe Pesci,The Irishman,False
@@ -3631,11 +3631,11 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2019,2020,Best screenplay - motion picture,Steven Zaillian,The Irishman,False
 2019,2020,Best motion picture - animated,Missing Link,Missing Link,True
 2019,2020,Best motion picture - animated,How to Train Your Dragon: The Hidden World,How to Train Your Dragon: The Hidden World,False
-2019,2020,Best motion picture - animated,"The Lion King, The",The Lion King,False
+2019,2020,Best motion picture - animated,The Lion King,The Lion King,False
 2019,2020,Best motion picture - animated,Toy Story 4,Toy Story 4,False
 2019,2020,Best motion picture - animated,Frozen II,Frozen II,False
 2019,2020,Best motion picture - foreign language,Parasite,"South Korea, Bong Joon Ho",True
-2019,2020,Best motion picture - foreign language,"The Farewell, The","USA, Lulu Wang",False
+2019,2020,Best motion picture - foreign language,The Farewell,"USA, Lulu Wang",False
 2019,2020,Best motion picture - foreign language,Les Misérables,"France, Ladj Ly",False
 2019,2020,Best motion picture - foreign language,Pain and Glory,"Spain, Pedro Almodóvar",False
 2019,2020,Best motion picture - foreign language,Portrait of a Lady on Fire,"France, Céline Sciamma",False
@@ -3655,15 +3655,15 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2020,2021,Best director - motion picture,Emerald Fennell,Promising Young Woman,False
 2020,2021,Best director - motion picture,Regina King,One Night in Miami…,False
 2020,2021,Best motion picture - animated,Soul,Soul,True
-2020,2021,Best motion picture - animated,"The Croods: A New Age, The",The Croods: A New Age,False
+2020,2021,Best motion picture - animated,The Croods: A New Age,The Croods: A New Age,False
 2020,2021,Best motion picture - animated,Onward,Onward,False
 2020,2021,Best motion picture - animated,Over the Moon,Over the Moon,False
 2020,2021,Best motion picture - animated,Wolfwalkers,Wolfwalkers,False
 2020,2021,Best motion picture - drama,Nomadland,Nomadland,True
-2020,2021,Best motion picture - drama,"The Father, The",The Father,False
+2020,2021,Best motion picture - drama,The Father,The Father,False
 2020,2021,Best motion picture - drama,Mank,Mank,False
 2020,2021,Best motion picture - drama,Promising Young Woman,Promising Young Woman,False
-2020,2021,Best motion picture - drama,"The Trial of the Chicago 7, The",The Trial of the Chicago 7,False
+2020,2021,Best motion picture - drama,The Trial of the Chicago 7,The Trial of the Chicago 7,False
 2020,2021,Best motion picture - foreign language,Minari,Minari,True
 2020,2021,Best motion picture - foreign language,Another Round,Denmark,False
 2020,2021,Best motion picture - foreign language,Two of Us,"France, USA",False
@@ -3673,7 +3673,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2020,2021,Best motion picture - musical or comedy,Hamilton,Hamilton,False
 2020,2021,Best motion picture - musical or comedy,Music,Music,False
 2020,2021,Best motion picture - musical or comedy,Palm Springs,Palm Springs,False
-2020,2021,Best motion picture - musical or comedy,"The Prom, The",The Prom,False
+2020,2021,Best motion picture - musical or comedy,The Prom,The Prom,False
 2020,2021,Best original score - motion picture,Trent Reznor,Atticus Ross,True
 2020,2021,Best original score - motion picture,Alexandre Desplat,The Midnight Sky,False
 2020,2021,Best original score - motion picture,James Newton Howard,News of the World,False
@@ -3729,7 +3729,7 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2021,2022,Best motion picture - animated,Luca,Luca,False
 2021,2022,Best motion picture - animated,My Sunny Maad,My Sunny Maad,False
 2021,2022,Best motion picture - animated,Raya and the Last Dragon,Raya and the Last Dragon,False
-2021,2022,Best motion picture - drama,"The Power of the Dog, The",The Power of the Dog,True
+2021,2022,Best motion picture - drama,The Power of the Dog,The Power of the Dog,True
 2021,2022,Best motion picture - drama,Belfast,Belfast,False
 2021,2022,Best motion picture - drama,CODA,CODA,False
 2021,2022,Best motion picture - drama,Dune,Dune,False
@@ -3799,12 +3799,12 @@ year_film,year_award,Golden Globes nominations,nominee,film,Golden Globes winner
 2022,2023,Best motion picture - animated,Marcel the Shell with Shoes On,Marcel the Shell with Shoes On,False
 2022,2023,Best motion picture - animated,Puss in Boots: The Last Wish,Puss in Boots: The Last Wish,False
 2022,2023,Best motion picture - animated,Turning Red,Turning Red,False
-2022,2023,Best motion picture - drama,"The Fabelmans, The",The Fabelmans,True
+2022,2023,Best motion picture - drama,The Fabelmans,The Fabelmans,True
 2022,2023,Best motion picture - drama,Avatar: The Way of Water,Avatar: The Way of Water,False
 2022,2023,Best motion picture - drama,Elvis,Elvis,False
 2022,2023,Best motion picture - drama,Top Gun: Maverick,Top Gun: Maverick,False
 2022,2023,Best motion picture - drama,TÁR,TÁR,False
-2022,2023,Best motion picture - musical or comedy,"The Banshees of Inisherin, The",The Banshees of Inisherin,True
+2022,2023,Best motion picture - musical or comedy,The Banshees of Inisherin,The Banshees of Inisherin,True
 2022,2023,Best motion picture - musical or comedy,Babylon,Babylon,False
 2022,2023,Best motion picture - musical or comedy,Everything Everywhere All at Once,Everything Everywhere All at Once,False
 2022,2023,Best motion picture - musical or comedy,Glass Onion: A Knives Out Mystery,Glass Onion: A Knives Out Mystery,False
