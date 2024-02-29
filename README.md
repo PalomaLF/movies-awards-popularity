@@ -25,9 +25,9 @@ All data has been cleaned and formated to follow Oscars denominations for films,
 On average, only 26% of the films in this study have been nominated to both awards, showing a strong difference in the selection criteria. This difference persists on some specific categories, such as Best Picture (28%), althoug we can see an increase if we only select the main categories(40%). For this reason, the study has differentiated between Oscars and Golden Globes in the rating analysis.
 
 **Rating Analysis**
-Analysis shows a similar appreciation of awarded movies, with only 1.2% higher ratings in the case of Golden Globes for all slected films. However, this differnce increases if we focus on main categories, with an average of 2.4% higher ratings going for Oscar awarded moves
+Analysis shows a similar appreciation of awarded movies, with only 1.2% higher ratings in the case of Golden Globes for all slected films. However, this differnce increases if we focus on main categories, with an average of 2.4% higher ratings going for Oscar awarded movies. In general, ratings improve significantly when focusing on main categories, either nominees or award winners, which should be the focus moving forward.
 
-
+As next steps, it would be interesting to continue the study the platfomr's own data, specially number of visualization, and extend the analysis to awards relevant outside the US.
 
 
 
